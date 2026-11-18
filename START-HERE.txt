@@ -1,0 +1,34 @@
+ALFRED'S STORYBOOK — GITHUB PAGES READY
+
+1. Extract this ZIP on your computer.
+2. Upload the CONTENTS of the extracted folder into the top level of
+   robertrosina/alfredsstorybook. index.html must be at the top level.
+   Upload the extracted files, rather than the ZIP itself.
+3. Commit the files. Keep Pages set to main / (root).
+4. Once the Pages deployment completes, open:
+   https://robertrosina.github.io/alfredsstorybook/
+   Refresh the page to load the new version.
+
+This fixes the README appearing instead of the app.
+Existing journal.json and media files are deliberately excluded from this
+update ZIP, so uploading it does not replace your journal with an empty one.
+The media folder is included and existing files within it stay in place.
+
+OWNER UPLOADS ON GITHUB PAGES
+Use Connect GitHub. Owner/repository are inferred from the Pages address.
+Use a repository-limited token with Contents read/write access.
+The token stays in this tab's memory. It must be entered again in a new tab
+or browser session. A missing journal.json is created when you connect.
+Never put a token in source code, site-config.js, GitHub files or messages.
+
+SHARED SIGN-IN
+The Shared sign-in button will open your deployed server once configured.
+Deploy the code in server/ following server/SETUP.md. Then set sharedAppUrl
+in site-config.js to the deployed HTTPS Worker URL and commit the change.
+Each approved person can then sign in through that app URL.
+
+PRIVACY
+GitHub Pages publishes the journal and photos publicly. For controlled viewing,
+use the server with a private data repository and stop publishing that data
+through Pages. The server can be deployed from a separate code repository.
+This archive alone cannot register the GitHub App or deploy your server.

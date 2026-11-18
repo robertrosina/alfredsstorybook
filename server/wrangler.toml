@@ -1,0 +1,27 @@
+name = "alfreds-storybook"
+main = "worker.mjs"
+compatibility_date = "2026-11-18"
+workers_dev = true
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "alfreds-storybook-auth"
+database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
+migrations_dir = "migrations"
+
+[vars]
+GITHUB_OWNER = "YOUR_GITHUB_USERNAME"
+GITHUB_REPO = "YOUR_PRIVATE_REPOSITORY"
+GITHUB_BRANCH = "main"
+GITHUB_PROJECT_FOLDER = ""
+GITHUB_CLIENT_ID = "YOUR_GITHUB_APP_CLIENT_ID"
+GITHUB_INSTALLATION_ID = "YOUR_GITHUB_APP_INSTALLATION_ID"
+ADMIN_USERS = "YOUR_GITHUB_USERNAME"
+ALLOW_PUBLIC_REPOSITORY = "false"
+
+# Store GITHUB_CLIENT_SECRET and GITHUB_PRIVATE_KEY using wrangler secret put.
