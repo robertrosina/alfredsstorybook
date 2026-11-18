@@ -1,34 +1,27 @@
-ALFRED'S STORYBOOK — GITHUB PAGES READY
+ALFRED'S STORYBOOK — CHOOSE A USER AND EDIT
 
-1. Extract this ZIP on your computer.
-2. Upload the CONTENTS of the extracted folder into the top level of
-   robertrosina/alfredsstorybook. index.html must be at the top level.
-   Upload the extracted files, rather than the ZIP itself.
-3. Commit the files. Keep Pages set to main / (root).
-4. Once the Pages deployment completes, open:
-   https://robertrosina.github.io/alfredsstorybook/
-   Refresh the page to load the new version.
+Upload index.html and site-config.js from this archive to the repository root.
+Keep GitHub Pages set to main / (root). Wait for deployment and hard refresh.
 
-This fixes the README appearing instead of the app.
-Existing journal.json and media files are deliberately excluded from this
-update ZIP, so uploading it does not replace your journal with an empty one.
-The media folder is included and existing files within it stay in place.
+ONE-TIME OWNER SETUP
+1. Open Site settings on the website.
+2. Enter a NEW fine-grained token restricted to this repository, with Contents
+   read/write access. Revoke the token previously shared in chat.
+3. Click Connect repository.
+4. Reopen Site settings and choose Download shared settings.
+5. Upload the downloaded site-config.js to the repository root, replacing
+   the blank copy. Wait for Pages to redeploy.
 
-OWNER UPLOADS ON GITHUB PAGES
-Use Connect GitHub. Owner/repository are inferred from the Pages address.
-Use a repository-limited token with Contents read/write access.
-The token stays in this tab's memory. It must be entered again in a new tab
-or browser session. A missing journal.json is created when you connect.
-Never put a token in source code, site-config.js, GitHub files or messages.
+Now everyone visiting the site chooses a name and can edit and upload.
+Returning visitors choose a name again; the repository reconnects automatically.
+No Cloudflare, backend or browser token remembering is required.
 
-SHARED SIGN-IN
-The Shared sign-in button will open your deployed server once configured.
-Deploy the code in server/ following server/SETUP.md. Then set sharedAppUrl
-in site-config.js to the deployed HTTPS Worker URL and commit the change.
-Each approved person can then sign in through that app URL.
+The user selector records the author of new entries. It is not authentication.
+Anyone can select any name, and anyone who can read the published site/config
+can use the shared token's permissions, including outside this interface.
+Keep the token limited to this one repository. Replace site-config.js when
+the token expires. Do not use this arrangement for restricted private access.
 
-PRIVACY
-GitHub Pages publishes the journal and photos publicly. For controlled viewing,
-use the server with a private data repository and stop publishing that data
-through Pages. The server can be deployed from a separate code repository.
-This archive alone cannot register the GitHub App or deploy your server.
+No token is included in this download. Existing journal.json and photo files
+are excluded, so this update does not overwrite your existing journal.
+Photos continue saving to dated subfolders under /media.
