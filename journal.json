@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "47d8cb1e-31e8-4566-924d-be6e66df8704",
+  "revision": "d7d798c4-4f30-4370-9e82-f60ddb0267f0",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:05:49.749Z",
+  "updatedAt": "2026-11-19T13:06:25.524Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1014,8 +1014,8 @@
       "date": "2026-11-14",
       "time": "04:06",
       "carer": "Daddy",
-      "title": "November 2026",
-      "narrative": "Family photographs and saved screenshots. Some dates come from filenames or screenshot timestamps and need confirmation. Individual dates are retained with each image.",
+      "title": "Visit from Nonna",
+      "narrative": "",
       "photos": [
         {
           "file": "2026/11/14/2026-11-14_040632_05e6cf61-bc6f-5522-91c6-d6ff6a2c9d90.jpg",
@@ -1526,9 +1526,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 30012814,
-    "journalBytes": 66220,
-    "previousJournalBytes": 66219,
-    "totalBytes": 30145253,
-    "updatedAt": "2026-11-19T13:05:49.749Z"
+    "journalBytes": 66056,
+    "previousJournalBytes": 66220,
+    "totalBytes": 30145090,
+    "updatedAt": "2026-11-19T13:06:25.525Z"
   }
 }
