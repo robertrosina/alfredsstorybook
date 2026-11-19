@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "40fd354f-d4ea-4148-a1bc-e46d91a46961",
+  "revision": "6ca86200-6208-424a-a4f9-430243c54c0e",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T03:09:04.770Z",
+  "updatedAt": "2026-11-19T03:10:01.108Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -13,7 +13,7 @@
       "time": "11:08",
       "carer": "Robert",
       "narrative": "",
-      "title": "",
+      "title": "Alfred's birth day",
       "photos": [
         {
           "file": "2026/05/08/2026-05-08_1108_1965e49f-041b-4c8a-b871-d8734acff2d1.jpg",
@@ -86,9 +86,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 27236148,
-    "journalBytes": 2991,
-    "previousJournalBytes": 1893,
-    "totalBytes": 27241032,
-    "updatedAt": "2026-11-19T03:09:04.770Z"
+    "journalBytes": 3009,
+    "previousJournalBytes": 2991,
+    "totalBytes": 27242148,
+    "updatedAt": "2026-11-19T03:10:01.108Z"
   }
 }
