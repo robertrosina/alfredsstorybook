@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "e81f1d62-44b0-4e32-9f4b-4c6c7634a1d4",
+  "revision": "62d0b2eb-5ebf-481d-b147-0cd0228f1901",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:30:52.541Z",
+  "updatedAt": "2026-11-19T22:32:25.453Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -178,10 +178,18 @@
       "carer": "Daddy",
       "narrative": "\"Alfred and dad!\" That was something I always used to say to you. \"Alfred and dad!\" I would say. \"Best friends!\"\n\nYou're still my best friend. And you always will be.",
       "title": "One day soon this will be you and me, my bello.",
+      "section": "journal",
       "photos": [
         {
           "file": "2026/11/19/2026-11-19_2013_25ac46fb-0f28-4ab2-ad89-deb74123b0e6.jpg",
           "originalName": "1000177390.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/11/19/2026-11-19_2013_0eb2e48f-2f7a-4b13-8502-e2b25e99da99.jpg",
+          "originalName": "_DSC5913.jpg",
           "type": "image/jpeg",
           "favourite": false,
           "caption": ""
@@ -1749,10 +1757,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 33367958,
-    "journalBytes": 72893,
-    "previousJournalBytes": 72570,
-    "totalBytes": 33513421,
-    "updatedAt": "2026-11-19T22:30:52.542Z"
+    "mediaBytes": 33750388,
+    "journalBytes": 73159,
+    "previousJournalBytes": 72893,
+    "totalBytes": 33896440,
+    "updatedAt": "2026-11-19T22:32:25.454Z"
   }
 }
