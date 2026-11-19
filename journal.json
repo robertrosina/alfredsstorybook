@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "ff407092-2a57-4b61-9c48-64c0037e5dd1",
+  "revision": "2726b407-97ee-4940-be92-50c43db40224",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:18:27.346Z",
+  "updatedAt": "2026-11-19T22:19:33.228Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1610,6 +1610,26 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795126772197,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-05-19",
+      "time": "09:18",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Growing up so fast - not even 2 weeks old",
+      "photos": [
+        {
+          "file": "2026/05/19/2026-05-19_0918_b01cb561-55c4-4665-9225-873def974258.jpg",
+          "originalName": "20260519_082751.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1631,10 +1651,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32187016,
-    "journalBytes": 69360,
-    "previousJournalBytes": 68079,
-    "totalBytes": 32324455,
-    "updatedAt": "2026-11-19T22:18:27.346Z"
+    "mediaBytes": 32393512,
+    "journalBytes": 69901,
+    "previousJournalBytes": 69360,
+    "totalBytes": 32532773,
+    "updatedAt": "2026-11-19T22:19:33.229Z"
   }
 }
