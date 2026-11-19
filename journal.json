@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "7f50f42a-067a-4c8e-b729-05e610613e26",
+  "revision": "44989b38-5c5f-4ff2-9096-ce2f1a62ff81",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T23:19:20.152Z",
+  "updatedAt": "2026-11-19T23:19:49.450Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1967,18 +1967,6 @@
           "caption": ""
         }
       ]
-    },
-    {
-      "id": 1795130358865,
-      "section": "journal",
-      "type": "Journal",
-      "detail": "",
-      "date": "2026-11-20",
-      "time": "10:19",
-      "carer": "Daddy",
-      "narrative": "",
-      "title": "Test",
-      "photos": []
     }
   ],
   "profilePhoto": {
@@ -2001,9 +1989,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 38676291,
-    "journalBytes": 80630,
-    "previousJournalBytes": 80377,
+    "journalBytes": 80377,
+    "previousJournalBytes": 80630,
     "totalBytes": 38837298,
-    "updatedAt": "2026-11-19T23:19:20.157Z"
+    "updatedAt": "2026-11-19T23:19:49.451Z"
   }
 }
