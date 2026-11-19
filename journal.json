@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "eb6b2ed3-4d71-462f-8139-3b77b947c87f",
+  "revision": "67658dcd-7f83-4553-a604-fbb9354e5872",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:46:13.025Z",
+  "updatedAt": "2026-11-19T22:48:42.122Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1891,6 +1891,54 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795128521003,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-06-08",
+      "time": "09:48",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "One month birthday Alfred!",
+      "photos": [
+        {
+          "file": "2026/06/08/2026-06-08_0948_61ff2895-be32-494b-b8ad-3fe080396d47.jpg",
+          "originalName": "_DSC5645-2.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/08/2026-06-08_0948_7108f3eb-06f2-4822-86d8-0cebfd6c5a32.jpg",
+          "originalName": "_DSC5650.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/08/2026-06-08_0948_6a6d27ca-304a-407e-9be8-0c4235a0b42f.jpg",
+          "originalName": "_DSC5620.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/08/2026-06-08_0948_1fed7c07-6c94-49ab-85c3-d917437ea360.jpg",
+          "originalName": "_DSC5624.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/08/2026-06-08_0948_57d84168-c7de-45c6-aaf9-da29f5754f41.jpg",
+          "originalName": "_DSC5636.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1912,10 +1960,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 37441576,
-    "journalBytes": 78005,
-    "previousJournalBytes": 77487,
-    "totalBytes": 37597068,
-    "updatedAt": "2026-11-19T22:46:13.025Z"
+    "mediaBytes": 38354563,
+    "journalBytes": 79478,
+    "previousJournalBytes": 78005,
+    "totalBytes": 38512046,
+    "updatedAt": "2026-11-19T22:48:42.123Z"
   }
 }
