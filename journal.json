@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "282b4ff5-c825-4c65-933e-f11c900a69b0",
+  "revision": "0caa64db-6c89-440a-b405-691d6b66644f",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:13:38.478Z",
+  "updatedAt": "2026-11-19T09:14:56.527Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -78,7 +78,7 @@
       "date": "2026-10-19",
       "time": "15:12",
       "carer": "Nonna",
-      "narrative": "",
+      "narrative": "Every day I look at your photos and love you my bello. I can't wait to see you. You're such a beautiful boy.",
       "title": "Red and Blue Alfred (Date Unknown)",
       "photos": [
         {
@@ -215,9 +215,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2558833,
-    "journalBytes": 6690,
-    "previousJournalBytes": 6177,
-    "totalBytes": 2571700,
-    "updatedAt": "2026-11-19T09:13:38.479Z"
+    "journalBytes": 6798,
+    "previousJournalBytes": 6690,
+    "totalBytes": 2572321,
+    "updatedAt": "2026-11-19T09:14:56.529Z"
   }
 }
