@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "d91e29ae-21b6-4f16-8c3d-58b13151503d",
+  "revision": "ab7f6c37-11ed-404a-876d-8df8bd215199",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T06:11:03.545Z",
+  "updatedAt": "2026-11-19T06:11:48.564Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -160,7 +160,7 @@
       "id": 1795068662489,
       "type": "Journal",
       "detail": "",
-      "date": "2026-10-10",
+      "date": "2026-09-10",
       "time": "17:10",
       "carer": "Daddy",
       "narrative": "",
@@ -197,8 +197,8 @@
     "budgetBytes": 1000000000,
     "mediaBytes": 2412931,
     "journalBytes": 6177,
-    "previousJournalBytes": 5642,
-    "totalBytes": 2424750,
-    "updatedAt": "2026-11-19T06:11:03.545Z"
+    "previousJournalBytes": 6177,
+    "totalBytes": 2425285,
+    "updatedAt": "2026-11-19T06:11:48.564Z"
   }
 }
