@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "41b2706b-916c-4c63-ae5f-307fb6e31baf",
+  "revision": "5d265d8c-777d-4d6e-a335-8732ee795e79",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:41:33.766Z",
+  "updatedAt": "2026-11-19T09:50:07.756Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -212,6 +212,17 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795081806329,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-05-07",
+      "time": "20:47",
+      "carer": "Daddy",
+      "narrative": "On the night before you were born, there were two omens, and there was one omen when you were born: three in total.\n\nFirst, there was a wolf that we saw. Okay, it was a husky. Still, it was a sign.\n\nNext, I found a two dollar coin on the street. The highest possible coin, the highest possible luck.\n\nFinally, one of the midwives was called Asha. She didn't know the divine meaning of her name, but I explained it to her. It means truth, bello. Divine, ultimate truth.",
+      "title": "",
+      "photos": []
     }
   ],
   "profilePhoto": {
@@ -234,9 +245,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2686720,
-    "journalBytes": 8596,
+    "journalBytes": 9291,
     "previousJournalBytes": 8596,
-    "totalBytes": 2703912,
-    "updatedAt": "2026-11-19T09:41:33.768Z"
+    "totalBytes": 2704607,
+    "updatedAt": "2026-11-19T09:50:07.758Z"
   }
 }
