@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "0e14f134-038e-462e-88f8-2ce4b622973b",
+  "revision": "ff14b4b4-5e6b-4d78-b3e2-f97a6b93d540",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T03:33:09.525Z",
+  "updatedAt": "2026-11-19T04:12:37.946Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -64,6 +64,54 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795061557429,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-10-19",
+      "time": "15:12",
+      "carer": "Robert",
+      "narrative": "",
+      "title": "Red and Blue Alfred (Date Unknown)",
+      "photos": [
+        {
+          "file": "2026/10/19/2026-10-19_1512_4359e0f7-47b9-4008-9da5-4391a289779b.jpg",
+          "originalName": "IMG_20261101_104450966.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        },
+        {
+          "file": "2026/10/19/2026-10-19_1512_59a6b727-ddb4-4051-9b76-0d299951ea79.jpg",
+          "originalName": "IMG_20261101_104458438_HDR.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        },
+        {
+          "file": "2026/10/19/2026-10-19_1512_edf60f84-3ba4-4766-a87a-cc2bf48e2e0f.jpg",
+          "originalName": "IMG_20261101_104441875.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        },
+        {
+          "file": "2026/10/19/2026-10-19_1512_b021cecd-ce6a-47e5-a7c9-960ad87201ac.jpg",
+          "originalName": "IMG_20261101_104457324_HDR.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        },
+        {
+          "file": "2026/10/19/2026-10-19_1512_e188932e-e7e5-4caf-b744-5a2ede0e5c53.jpg",
+          "originalName": "IMG_20261101_104443216.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        },
+        {
+          "file": "2026/10/19/2026-10-19_1512_9a87ce8e-6ace-4698-b3df-1464c75348e8.jpg",
+          "originalName": "IMG_20261101_104455014.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -85,10 +133,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 26626468,
-    "journalBytes": 2834,
-    "previousJournalBytes": 0,
-    "totalBytes": 26629302,
-    "updatedAt": "2026-11-19T03:33:09.542Z"
+    "mediaBytes": 27616485,
+    "journalBytes": 4439,
+    "previousJournalBytes": 2834,
+    "totalBytes": 27623758,
+    "updatedAt": "2026-11-19T04:12:37.947Z"
   }
 }
