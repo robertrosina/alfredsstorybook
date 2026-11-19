@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "ab7f6c37-11ed-404a-876d-8df8bd215199",
+  "revision": "282b4ff5-c825-4c65-933e-f11c900a69b0",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T06:11:48.564Z",
+  "updatedAt": "2026-11-19T09:13:38.478Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -174,6 +174,25 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795079617142,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-11-19",
+      "time": "20:13",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "One day soon this will be you and me my bello.",
+      "photos": [
+        {
+          "file": "2026/11/19/2026-11-19_2013_25ac46fb-0f28-4ab2-ad89-deb74123b0e6.jpg",
+          "originalName": "1000177390.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -195,10 +214,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 2412931,
-    "journalBytes": 6177,
+    "mediaBytes": 2558833,
+    "journalBytes": 6690,
     "previousJournalBytes": 6177,
-    "totalBytes": 2425285,
-    "updatedAt": "2026-11-19T06:11:48.564Z"
+    "totalBytes": 2571700,
+    "updatedAt": "2026-11-19T09:13:38.479Z"
   }
 }
