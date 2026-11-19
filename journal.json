@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "16d5665e-2d23-4b99-a901-463ffb58c337",
+  "revision": "5bd640fe-3fd3-4ed3-b612-1d81e2c3288c",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:09:56.866Z",
+  "updatedAt": "2026-11-19T22:13:08.417Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1504,6 +1504,54 @@
           "caption": "Months later!"
         }
       ]
+    },
+    {
+      "id": 1795126387397,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2025-10-27",
+      "time": "09:11",
+      "carer": "Daddy",
+      "narrative": "Because of what happened before with Richard, your mum and I were so scared the whole time you were in the womb.",
+      "title": "Early Ultrasound",
+      "photos": [
+        {
+          "file": "2025/10/27/2025-10-27_0911_ca107cb6-787b-46fe-a6a1-6a0d9d67774e.jpg",
+          "originalName": "20251027_132820.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2025/10/27/2025-10-27_0911_419ad759-f650-4978-86c3-841f8114e101.jpg",
+          "originalName": "20251027_132826.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2025/10/27/2025-10-27_0911_3c3a6969-561f-4b0b-a798-f9f5f0a38ad2.jpg",
+          "originalName": "image.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2025/10/27/2025-10-27_0911_911ff6e0-99fb-47be-913e-63f4c978e720.jpg",
+          "originalName": "Screenshot_20251028_042447_Gallery.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2025/10/27/2025-10-27_0911_f876b968-6a63-498a-bdbf-ab4ca7bc6271.jpg",
+          "originalName": "20251027_132808.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1525,10 +1573,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 30012814,
-    "journalBytes": 65914,
-    "previousJournalBytes": 65883,
-    "totalBytes": 30144611,
-    "updatedAt": "2026-11-19T13:09:56.867Z"
+    "mediaBytes": 31104999,
+    "journalBytes": 67531,
+    "previousJournalBytes": 65914,
+    "totalBytes": 31238444,
+    "updatedAt": "2026-11-19T22:13:08.417Z"
   }
 }
