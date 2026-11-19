@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "5b613b6e-398b-49a7-a1c4-03974c9a4e3c",
+  "revision": "2738bb68-a79e-4672-ac77-b288b6f7f148",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:31:10.256Z",
+  "updatedAt": "2026-11-19T09:31:55.962Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -201,7 +201,7 @@
       "date": "2026-06-04",
       "time": "20:26",
       "carer": "Daddy",
-      "narrative": "When you were young my bello you looked so weird! We thought maybe you would be weird looking when you grew up, and I would say \"I will love him anyway he looks\". I would say, \"He is going to be such a great person it won't matter!\". I wish I could go home, more than anything.",
+      "narrative": "When you were young my bello you looked so weird! We thought maybe you would be weird looking when you grew up, and I would say \"I will love him anyway he looks\". I would say, \"He is going to be such a great person it won't matter!\". \n\nI wish I could go home, more than anything, to hug you every day.",
       "title": "Mummy's blue pyjamas",
       "photos": [
         {
@@ -234,9 +234,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2686720,
-    "journalBytes": 8030,
-    "previousJournalBytes": 8013,
-    "totalBytes": 2702763,
-    "updatedAt": "2026-11-19T09:31:10.257Z"
+    "journalBytes": 8056,
+    "previousJournalBytes": 8030,
+    "totalBytes": 2702806,
+    "updatedAt": "2026-11-19T09:31:55.962Z"
   }
 }
