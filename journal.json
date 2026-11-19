@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "90076e0d-244d-475e-9a9f-c5f93bb20b4a",
+  "revision": "1a3e939c-1102-436a-bade-7a1681cdf020",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:43:24.674Z",
+  "updatedAt": "2026-11-19T22:44:41.429Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1844,6 +1844,33 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795128280377,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-01",
+      "time": "09:44",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "At the park outside our Lane Cove home",
+      "photos": [
+        {
+          "file": "2026/08/01/2026-08-01_0944_895e50d6-01ef-4fe2-874a-d6f6396f12d1.jpg",
+          "originalName": "_DSC5913.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/08/01/2026-08-01_0944_3ffe5d89-6083-4662-b423-bb75a2ea9307.jpg",
+          "originalName": "_DSC5889.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1865,10 +1892,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 36626320,
-    "journalBytes": 76718,
-    "previousJournalBytes": 73803,
-    "totalBytes": 36776841,
-    "updatedAt": "2026-11-19T22:43:24.675Z"
+    "mediaBytes": 37286544,
+    "journalBytes": 77487,
+    "previousJournalBytes": 76718,
+    "totalBytes": 37440749,
+    "updatedAt": "2026-11-19T22:44:41.430Z"
   }
 }
