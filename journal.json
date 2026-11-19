@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "91002150-9f36-42d9-b234-2b4cee1e9ea1",
+  "revision": "a0716d08-8329-4374-9df4-1bb8715f423e",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:27:51.854Z",
+  "updatedAt": "2026-11-19T12:28:02.994Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1169,16 +1169,6 @@
           "captureDateNeedsConfirmation": false
         },
         {
-          "file": "2026/10/29/2026-10-29_121831_5ef6150b-7a66-5939-bf84-72eba41e6073.jpg",
-          "originalName": "IMG_20261029_121829583_PORTRAIT.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "A grocery item from the photo collection.",
-          "dateTaken": "2026-10-29T12:18:31",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
           "file": "2026/10/29/2026-10-29_122238_f0e69471-d08d-5ab2-bbb1-78ca97eddb7a.jpg",
           "originalName": "IMG_20261029_122237602_PORTRAIT.jpg",
           "type": "image/jpeg",
@@ -1536,10 +1526,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32221119,
-    "journalBytes": 66355,
+    "mediaBytes": 32094130,
+    "journalBytes": 65907,
     "previousJournalBytes": 0,
-    "totalBytes": 32287474,
-    "updatedAt": "2026-11-19T12:27:51.878Z"
+    "totalBytes": 32160037,
+    "updatedAt": "2026-11-19T12:28:03.019Z"
   }
 }
