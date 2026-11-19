@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "d2bb2447-52b7-40a6-9d13-5b037f5e5ce1",
+  "revision": "7c0e2a86-66bc-4f17-bdea-80b1aca9d7e8",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:26:59.013Z",
+  "updatedAt": "2026-11-19T12:27:14.475Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1129,16 +1129,6 @@
           "captureDateNeedsConfirmation": false
         },
         {
-          "file": "2026/10/26/2026-10-26_190926_60d4ab5d-a379-58ba-bd72-df5b3d445ff1.jpg",
-          "originalName": ".trashed-1795602353-IMG_20261026_190925439.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred in his pram at a gathering.",
-          "dateTaken": "2026-10-26T19:09:26",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
           "file": "2026/10/27/2026-10-27_151150_c2f11f41-c1a0-5dd4-a7a6-91fd3890a29c.jpg",
           "originalName": "IMG_20261027_151148868.jpg",
           "type": "image/jpeg",
@@ -1556,10 +1546,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32509157,
-    "journalBytes": 67255,
+    "mediaBytes": 32393289,
+    "journalBytes": 66803,
     "previousJournalBytes": 0,
-    "totalBytes": 32576412,
-    "updatedAt": "2026-11-19T12:26:59.035Z"
+    "totalBytes": 32460092,
+    "updatedAt": "2026-11-19T12:27:14.499Z"
   }
 }
