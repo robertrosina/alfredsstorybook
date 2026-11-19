@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "965124fb-d28c-4b3c-aff3-f85c36ce5262",
+  "revision": "1891346f-30b1-4ed9-ad95-d0ea3ff3c923",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:28:14.346Z",
+  "updatedAt": "2026-11-19T12:31:55.705Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1169,46 +1169,6 @@
           "captureDateNeedsConfirmation": false
         },
         {
-          "file": "2026/10/29/2026-10-29_142830_c583c39f-9316-5418-9637-4f1db05adbfc.jpg",
-          "originalName": "IMG_20261029_142829322_PORTRAIT.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred sitting with a book on the blue cushion.",
-          "dateTaken": "2026-10-29T14:28:30",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/29/2026-10-29_142832_5bd04198-c6e3-5105-b71f-e9d0f67c683e.jpg",
-          "originalName": "IMG_20261029_142831029_PORTRAIT.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred sitting with a book on the blue cushion.",
-          "dateTaken": "2026-10-29T14:28:32",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/29/2026-10-29_142835_72243ba7-4f6e-5f3a-a9e3-8e6993b5882a.jpg",
-          "originalName": "IMG_20261029_142834865_PORTRAIT.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred sitting with a book on the blue cushion.",
-          "dateTaken": "2026-10-29T14:28:35",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/29/2026-10-29_142839_fcded20b-817d-5922-bfbd-8c483c3e527c.jpg",
-          "originalName": "IMG_20261029_142838523_PORTRAIT.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred sitting with a book on the blue cushion.",
-          "dateTaken": "2026-10-29T14:28:39",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
           "file": "2026/10/30/2026-10-30_090457_3a8d9c78-d347-563c-8191-2717ae6460bf.jpg",
           "originalName": "IMG_20261030_090456140_PORTRAIT.jpg",
           "type": "image/jpeg",
@@ -1495,6 +1455,58 @@
           }
         }
       ]
+    },
+    {
+      "id": "10b2c325-c354-424c-86ca-f0269dcf8235",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-10-28",
+      "time": "14:28",
+      "carer": "Daddy",
+      "title": "Childcare",
+      "narrative": "This was my worst nightmare. And it happened. You look like you have been crying for hours for someone to make it all better, and you don't know what else to do. I'm sorry this was done to you, my bello. I never would have allowed it to happen, and I did everything in my power to stop it, even getting sent to prison. You will be there again tomorrow, and I don't know what to do about it. My life is hell knowing that you suffer weekly. One day, daddy will return.",
+      "photos": [
+        {
+          "file": "2026/10/29/2026-10-29_142830_c583c39f-9316-5418-9637-4f1db05adbfc.jpg",
+          "originalName": "IMG_20261029_142829322_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateTaken": "2026-10-29T14:28:30",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/29/2026-10-29_142832_5bd04198-c6e3-5105-b71f-e9d0f67c683e.jpg",
+          "originalName": "IMG_20261029_142831029_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateTaken": "2026-10-29T14:28:32",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/29/2026-10-29_142835_72243ba7-4f6e-5f3a-a9e3-8e6993b5882a.jpg",
+          "originalName": "IMG_20261029_142834865_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateTaken": "2026-10-29T14:28:35",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/29/2026-10-29_142839_fcded20b-817d-5922-bfbd-8c483c3e527c.jpg",
+          "originalName": "IMG_20261029_142838523_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateTaken": "2026-10-29T14:28:39",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1517,9 +1529,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 31983359,
-    "journalBytes": 65459,
-    "previousJournalBytes": 0,
-    "totalBytes": 32048818,
-    "updatedAt": "2026-11-19T12:28:14.371Z"
+    "journalBytes": 66190,
+    "previousJournalBytes": 65459,
+    "totalBytes": 32115008,
+    "updatedAt": "2026-11-19T12:31:55.706Z"
   }
 }
