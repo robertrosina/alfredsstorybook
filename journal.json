@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "fc24a285-e530-40a7-b7e3-bba632915cec",
+  "revision": "6717b092-cced-466f-99ff-88fe4861cd57",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T05:33:05.500Z",
+  "updatedAt": "2026-11-19T05:33:58.101Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -137,7 +137,7 @@
       "loved": false,
       "photos": [
         {
-          "file": "2026/11/19/2026-11-19_1522_016a1a77-82ce-4cc0-a95b-68ea53a5ed02.jpg",
+          "file": "2026/11/19/2026-11-19_1522_c112e441-ef27-491e-952d-62c49219abc2.jpg",
           "originalName": "Website.jpg",
           "type": "image/jpeg",
           "favourite": false,
@@ -165,10 +165,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 2152679,
-    "journalBytes": 5407,
-    "previousJournalBytes": 5164,
-    "totalBytes": 2163250,
-    "updatedAt": "2026-11-19T05:33:05.500Z"
+    "mediaBytes": 2198119,
+    "journalBytes": 5404,
+    "previousJournalBytes": 0,
+    "totalBytes": 2203523,
+    "updatedAt": "2026-11-19T05:33:58.119Z"
   }
 }
