@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "6d78ddb5-74fd-483b-aad8-950ecbd6cc5f",
+  "revision": "39be3717-5406-4266-ba85-065a4c1282c0",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T04:23:15.828Z",
+  "updatedAt": "2026-11-19T04:25:21.714Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -19,24 +19,28 @@
           "file": "2026/05/08/2026-05-08_1108_203b8cd8-8b0f-474f-86ca-97c73b93ffed.jpg",
           "originalName": "IMG-20260509-WA0005.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/05/08/2026-05-08_1108_466f4c6a-9cd2-4fc1-86aa-cfe545190462.jpg",
           "originalName": "20260510_121513.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/05/08/2026-05-08_1108_f3cd7164-0f22-457f-a30e-5508ea6c93e0.jpg",
           "originalName": "20260510_121517.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/05/08/2026-05-08_1108_e14398bc-2162-48bd-8923-e60aceeb80d4.jpg",
           "originalName": "20260516_104109.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         }
       ]
@@ -55,12 +59,14 @@
           "file": "2026/08/19/2026-08-19_1426_012c4380-65a0-4d0b-885a-819e8d7b98bd.jpg",
           "originalName": "766007028_10162641243122121_611239254952796290_n.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/08/19/2026-08-19_1426_5ea817d1-2037-4640-82ad-c2b1cf274821.jpg",
           "originalName": "764006336_10162641247692121_5577886836099363420_n.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         }
       ]
@@ -79,36 +85,42 @@
           "file": "2026/10/19/2026-10-19_1512_4359e0f7-47b9-4008-9da5-4391a289779b.jpg",
           "originalName": "IMG_20261101_104450966.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/10/19/2026-10-19_1512_59a6b727-ddb4-4051-9b76-0d299951ea79.jpg",
           "originalName": "IMG_20261101_104458438_HDR.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/10/19/2026-10-19_1512_edf60f84-3ba4-4766-a87a-cc2bf48e2e0f.jpg",
           "originalName": "IMG_20261101_104441875.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/10/19/2026-10-19_1512_b021cecd-ce6a-47e5-a7c9-960ad87201ac.jpg",
           "originalName": "IMG_20261101_104457324_HDR.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/10/19/2026-10-19_1512_e188932e-e7e5-4caf-b744-5a2ede0e5c53.jpg",
           "originalName": "IMG_20261101_104443216.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         },
         {
           "file": "2026/10/19/2026-10-19_1512_9a87ce8e-6ace-4698-b3df-1464c75348e8.jpg",
           "originalName": "IMG_20261101_104455014.jpg",
           "type": "image/jpeg",
+          "favourite": false,
           "caption": ""
         }
       ]
@@ -122,6 +134,7 @@
       "carer": "Robert",
       "narrative": "Today I made this site website for you, my bello. So you can see how you've grown, and how much we love you.",
       "title": "Website Uploaded",
+      "loved": true,
       "photos": []
     }
   ],
@@ -145,9 +158,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2148542,
-    "journalBytes": 4783,
-    "previousJournalBytes": 4434,
-    "totalBytes": 2157759,
-    "updatedAt": "2026-11-19T04:23:15.828Z"
+    "journalBytes": 5164,
+    "previousJournalBytes": 4783,
+    "totalBytes": 2158489,
+    "updatedAt": "2026-11-19T04:25:21.714Z"
   }
 }
