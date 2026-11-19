@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "f11f4b34-9d97-4024-a5f5-f314222f4d9f",
+  "revision": "35ab442e-9089-4173-bf8d-4f3cbbbbfe39",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:01:59.510Z",
+  "updatedAt": "2026-11-19T13:02:31.034Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1501,7 +1501,7 @@
           "originalName": "Screenshot_20260614_125550_One UI Home.jpg",
           "type": "image/jpeg",
           "favourite": false,
-          "caption": ""
+          "caption": "Months later!"
         }
       ]
     }
@@ -1526,9 +1526,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 30012814,
-    "journalBytes": 66206,
-    "previousJournalBytes": 65938,
-    "totalBytes": 30144958,
-    "updatedAt": "2026-11-19T13:01:59.510Z"
+    "journalBytes": 66219,
+    "previousJournalBytes": 66206,
+    "totalBytes": 30145239,
+    "updatedAt": "2026-11-19T13:02:31.035Z"
   }
 }
