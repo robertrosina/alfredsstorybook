@@ -1,20 +1,26 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "ee7dd9e3-d4cc-4989-8f31-7598338c5887",
+  "revision": "1418552f-e426-40b3-acbf-4725ef94e036",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T02:58:59.952Z",
+  "updatedAt": "2026-11-19T02:59:30.232Z",
   "entries": [],
   "profilePhoto": {
     "file": "profile/profile.jpg",
     "directory": "media",
     "originalName": "IMG-20260919-WA0000 - Copy.jpg",
     "type": "image/jpeg",
-    "archiveFile": "profile/2026/11/2026-11-19_411b90d6-7349-4830-8367-0cb36fd2c78a.jpg",
+    "archiveFile": "profile/2026/11/2026-11-19_d007ed09-078c-427e-bb94-c2b775efd0fb.jpg",
     "archiveDirectory": "media",
-    "updatedAt": "2026-11-19T02:58:59.953Z"
+    "updatedAt": "2026-11-19T02:59:30.233Z"
   },
   "profileHistory": [
+    {
+      "file": "profile/2026/11/2026-11-19_d007ed09-078c-427e-bb94-c2b775efd0fb.jpg",
+      "directory": "media",
+      "originalName": "IMG-20260919-WA0000 - Copy.jpg",
+      "updatedAt": "2026-11-19T02:59:30.233Z"
+    },
     {
       "file": "profile/2026/11/2026-11-19_411b90d6-7349-4830-8367-0cb36fd2c78a.jpg",
       "directory": "media",
@@ -30,10 +36,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 578167,
-    "journalBytes": 1208,
-    "previousJournalBytes": 972,
-    "totalBytes": 580347,
-    "updatedAt": "2026-11-19T02:58:59.953Z"
+    "mediaBytes": 708938,
+    "journalBytes": 1437,
+    "previousJournalBytes": 1208,
+    "totalBytes": 711583,
+    "updatedAt": "2026-11-19T02:59:30.233Z"
   }
 }
