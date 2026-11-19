@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "b66c0136-420f-4ad0-8843-7b1ee4393078",
+  "revision": "bf16d37d-955c-4d8b-a254-9268076d9ead",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:34:09.896Z",
+  "updatedAt": "2026-11-19T09:35:50.203Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -182,7 +182,7 @@
       "date": "2026-11-19",
       "time": "20:13",
       "carer": "Daddy",
-      "narrative": "\"Alfred and dad!\" That was something I always used to say to you. \"Alfred and dad!\" I would say. \"Best friends!\"",
+      "narrative": "\"Alfred and dad!\" That was something I always used to say to you. \"Alfred and dad!\" I would say. \"Best friends!\"\n\nYou're still my best friend. And you always will be.",
       "title": "One day soon this will be you and me my bello.",
       "photos": [
         {
@@ -234,9 +234,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2686720,
-    "journalBytes": 8174,
-    "previousJournalBytes": 8056,
-    "totalBytes": 2702950,
-    "updatedAt": "2026-11-19T09:34:09.898Z"
+    "journalBytes": 8230,
+    "previousJournalBytes": 8174,
+    "totalBytes": 2703124,
+    "updatedAt": "2026-11-19T09:35:50.205Z"
   }
 }
