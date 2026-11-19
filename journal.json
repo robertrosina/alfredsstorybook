@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "79b097b2-8199-43d2-b76d-471cc8d2d38a",
+  "revision": "ff407092-2a57-4b61-9c48-64c0037e5dd1",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:17:28.181Z",
+  "updatedAt": "2026-11-19T22:18:27.346Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1569,6 +1569,47 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795126706316,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-05-16",
+      "time": "09:17",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Hanging out with mum and dad - 1 week old!",
+      "photos": [
+        {
+          "file": "2026/05/16/2026-05-16_0917_b0807ea5-676b-4e01-80b8-77ef32548dfe.jpg",
+          "originalName": "20260516_104106.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/05/16/2026-05-16_0917_0de00fb7-adaa-44b6-ae1c-5dfcc38d5a8f.jpg",
+          "originalName": "20260516_104109.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/05/16/2026-05-16_0917_dbf66d3a-b264-40ec-ba76-96d1364b97fd.jpg",
+          "originalName": "20260516_104113.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/05/16/2026-05-16_0917_70e78559-3162-4000-8e66-a127b6dfd783.jpg",
+          "originalName": "20260516_110651.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1590,10 +1631,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 31618416,
-    "journalBytes": 68079,
-    "previousJournalBytes": 0,
-    "totalBytes": 31686495,
-    "updatedAt": "2026-11-19T22:17:28.210Z"
+    "mediaBytes": 32187016,
+    "journalBytes": 69360,
+    "previousJournalBytes": 68079,
+    "totalBytes": 32324455,
+    "updatedAt": "2026-11-19T22:18:27.346Z"
   }
 }
