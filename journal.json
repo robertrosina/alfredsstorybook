@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "bf0c7ee7-f650-45d6-9b5c-8402d37f0b36",
+  "revision": "ae6895b2-9c88-4ed2-b8be-1d5c1ec45e45",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T03:26:29.231Z",
+  "updatedAt": "2026-11-19T03:32:39.030Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -83,12 +83,6 @@
       "updatedAt": "2026-11-19T03:00:14.153Z"
     },
     {
-      "file": "profile/2026/11/2026-11-19_288f2908-4dc3-4426-a5a2-f2ac7d81a177.jpg",
-      "directory": "media",
-      "originalName": "IMG-20260919-WA0000 - Copy.jpg",
-      "updatedAt": "2026-11-19T02:59:55.299Z"
-    },
-    {
       "file": "profile/2026/11/2026-11-19_d007ed09-078c-427e-bb94-c2b775efd0fb.jpg",
       "directory": "media",
       "originalName": "IMG-20260919-WA0000 - Copy.jpg",
@@ -109,10 +103,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 27385998,
-    "journalBytes": 3742,
-    "previousJournalBytes": 3009,
-    "totalBytes": 27392749,
-    "updatedAt": "2026-11-19T03:26:29.231Z"
+    "mediaBytes": 27242217,
+    "journalBytes": 3511,
+    "previousJournalBytes": 0,
+    "totalBytes": 27245728,
+    "updatedAt": "2026-11-19T03:32:39.046Z"
   }
 }
