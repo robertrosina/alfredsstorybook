@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "8dcba278-d68c-4d6a-886a-729fcb4e6a18",
+  "revision": "c144018b-719d-4461-b2bf-6f731051556c",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:35:16.876Z",
+  "updatedAt": "2026-11-19T22:35:46.737Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -69,11 +69,12 @@
       "id": 1795061557429,
       "type": "Journal",
       "detail": "",
-      "date": "2026-10-19",
+      "date": "2026-10-26",
       "time": "15:12",
       "carer": "Nonna",
       "narrative": "Every day I look at your photos and love you my bello. I can't wait to see you. You're such a beautiful boy. Though sometimes it's hard to recognise you — even though you look like me!",
       "title": "Red and Blue Alfred (Date Unknown)",
+      "section": "journal",
       "photos": [
         {
           "file": "2026/10/19/2026-10-19_1512_4359e0f7-47b9-4008-9da5-4391a289779b.jpg",
@@ -1775,9 +1776,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 34232713,
-    "journalBytes": 73770,
-    "previousJournalBytes": 73742,
-    "totalBytes": 34380225,
-    "updatedAt": "2026-11-19T22:35:16.877Z"
+    "journalBytes": 73798,
+    "previousJournalBytes": 73770,
+    "totalBytes": 34380281,
+    "updatedAt": "2026-11-19T22:35:46.737Z"
   }
 }
