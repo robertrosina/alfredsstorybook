@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "39be3717-5406-4266-ba85-065a4c1282c0",
+  "revision": "36b6cd4c-0315-4689-a9a6-fb1ca1f231b1",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T04:25:21.714Z",
+  "updatedAt": "2026-11-19T04:25:31.366Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -134,7 +134,7 @@
       "carer": "Robert",
       "narrative": "Today I made this site website for you, my bello. So you can see how you've grown, and how much we love you.",
       "title": "Website Uploaded",
-      "loved": true,
+      "loved": false,
       "photos": []
     }
   ],
@@ -158,9 +158,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2148542,
-    "journalBytes": 5164,
-    "previousJournalBytes": 4783,
-    "totalBytes": 2158489,
-    "updatedAt": "2026-11-19T04:25:21.714Z"
+    "journalBytes": 5165,
+    "previousJournalBytes": 5164,
+    "totalBytes": 2158871,
+    "updatedAt": "2026-11-19T04:25:31.366Z"
   }
 }
