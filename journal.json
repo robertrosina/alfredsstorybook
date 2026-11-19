@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "031d1100-8fe6-4d3a-b3ff-7ab1dba9a32b",
+  "revision": "de57ea22-500b-4af5-8580-428f8baea246",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:19:59.892Z",
+  "updatedAt": "2026-11-19T22:21:53.549Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1637,6 +1637,26 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795126912489,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-05-10",
+      "time": "09:20",
+      "carer": "Daddy",
+      "narrative": "You mum spent so long making this outfit for you bello. With love and care she made it when you were in the womb.",
+      "title": "Time to go home!",
+      "photos": [
+        {
+          "file": "2026/05/10/2026-05-10_0920_221dcccf-16e7-4614-a27f-efb30c035d16.jpg",
+          "originalName": "Screenshot_20260608_102246_One UI Home.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1658,10 +1678,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32488337,
-    "journalBytes": 70179,
-    "previousJournalBytes": 69901,
-    "totalBytes": 32628417,
-    "updatedAt": "2026-11-19T22:19:59.892Z"
+    "mediaBytes": 32714772,
+    "journalBytes": 70831,
+    "previousJournalBytes": 70179,
+    "totalBytes": 32855782,
+    "updatedAt": "2026-11-19T22:21:53.550Z"
   }
 }
