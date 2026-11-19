@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "6ca86200-6208-424a-a4f9-430243c54c0e",
+  "revision": "bf0c7ee7-f650-45d6-9b5c-8402d37f0b36",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T03:10:01.108Z",
+  "updatedAt": "2026-11-19T03:26:29.231Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -36,6 +36,30 @@
         {
           "file": "2026/05/08/2026-05-08_1108_6c8dac13-5a32-4267-981d-13be4b80dd30.jpg",
           "originalName": "20260516_104109.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 1795058788629,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-19",
+      "time": "14:26",
+      "carer": "Robert",
+      "narrative": "",
+      "title": "Artworks",
+      "photos": [
+        {
+          "file": "2026/08/19/2026-08-19_1426_012c4380-65a0-4d0b-885a-819e8d7b98bd.jpg",
+          "originalName": "766007028_10162641243122121_611239254952796290_n.jpg",
+          "type": "image/jpeg",
+          "caption": ""
+        },
+        {
+          "file": "2026/08/19/2026-08-19_1426_5ea817d1-2037-4640-82ad-c2b1cf274821.jpg",
+          "originalName": "764006336_10162641247692121_5577886836099363420_n.jpg",
           "type": "image/jpeg",
           "caption": ""
         }
@@ -85,10 +109,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 27236148,
-    "journalBytes": 3009,
-    "previousJournalBytes": 2991,
-    "totalBytes": 27242148,
-    "updatedAt": "2026-11-19T03:10:01.108Z"
+    "mediaBytes": 27385998,
+    "journalBytes": 3742,
+    "previousJournalBytes": 3009,
+    "totalBytes": 27392749,
+    "updatedAt": "2026-11-19T03:26:29.231Z"
   }
 }
