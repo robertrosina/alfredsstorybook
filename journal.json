@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "74ea8f42-bd2d-4bfe-a109-74cf543ddec3",
+  "revision": "7075367d-8da2-46cd-881a-9a90e6d5e185",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:18:40.666Z",
+  "updatedAt": "2026-11-19T12:19:13.186Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1489,14 +1489,23 @@
           }
         },
         {
-          "file": "2026/11/16/2026-11-16_033923_a3b9ef5a-bb80-5346-9b48-4cbd1a6d0be7.jpg",
-          "originalName": "Screenshot_20261116-033923.WhatsApp.png",
+          "file": "2026/11/14/2026-11-14_0406_a4fe6c08-d2a4-43f9-a242-8ff346d2e795.jpg",
+          "originalName": "Screenshot_20261116-033923.WhatsApp-cropped.jpg",
           "type": "image/jpeg",
           "favourite": false,
           "caption": "Saved screenshot from the photo collection.",
           "dateTaken": "2026-11-16T03:39:23",
           "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
-          "captureDateNeedsConfirmation": true
+          "cropOriginalFile": "2026/11/16/2026-11-16_033923_a3b9ef5a-bb80-5346-9b48-4cbd1a6d0be7.jpg",
+          "cropOriginalDirectory": "media",
+          "cropOriginalName": "Screenshot_20261116-033923.WhatsApp.png",
+          "captureDateNeedsConfirmation": true,
+          "crop": {
+            "x": 0,
+            "y": 314.4,
+            "width": 1080,
+            "height": 1440
+          }
         },
         {
           "file": "2026/11/16/2026-11-16_034046_d7932a4e-65dc-5da3-9768-f4faf6bcfac3.jpg",
@@ -1550,10 +1559,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32112004,
-    "journalBytes": 67149,
-    "previousJournalBytes": 66778,
-    "totalBytes": 32245931,
-    "updatedAt": "2026-11-19T12:18:40.666Z"
+    "mediaBytes": 32367454,
+    "journalBytes": 67506,
+    "previousJournalBytes": 67149,
+    "totalBytes": 32502109,
+    "updatedAt": "2026-11-19T12:19:13.187Z"
   }
 }
