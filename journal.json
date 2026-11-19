@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "0e08b70a-d926-448c-8ac6-f9672d2856a8",
+  "revision": "414fd3be-b923-43b7-818d-427b3214c7f8",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:51:30.262Z",
+  "updatedAt": "2026-11-19T09:52:13.824Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -220,7 +220,7 @@
       "date": "2026-05-07",
       "time": "20:47",
       "carer": "Daddy",
-      "narrative": "On the night before you were born, there were two omens, and there was one omen when you were born: three in total.\n\nFirst, there was a wolf that we saw. Okay, it was a husky. Still, it was a sign.\n\nNext, I found a two dollar coin on the street. The highest possible coin, the highest possible luck.\n\nFinally, one of the midwives was called Asha. She didn't know the divine meaning of her name, but I explained it to her. It means truth, bello. Divine, ultimate truth. You will know this by your own nature, because you are my son.",
+      "narrative": "On the night before you were born, there were two omens, and there was one omen when you were born: three in total.\n\nFirst, there was a wolf that we saw. Okay, it was a husky. Still, it was a sign.\n\nNext, I found a two dollar coin on the street. The highest possible coin, the highest possible luck.\n\nFinally, one of the midwives was called Asha. She didn't know the divine meaning of her name, but I explained it to her. It means truth, bello. Divine, ultimate truth.",
       "title": "Three omens",
       "photos": []
     }
@@ -245,9 +245,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2686720,
-    "journalBytes": 9365,
-    "previousJournalBytes": 9302,
+    "journalBytes": 9302,
+    "previousJournalBytes": 9365,
     "totalBytes": 2705387,
-    "updatedAt": "2026-11-19T09:51:30.264Z"
+    "updatedAt": "2026-11-19T09:52:13.825Z"
   }
 }
