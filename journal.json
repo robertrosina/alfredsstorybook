@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "29ad7759-cf5c-43c3-8fa6-53bb381e4923",
+  "revision": "8dcba278-d68c-4d6a-886a-729fcb4e6a18",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:34:25.415Z",
+  "updatedAt": "2026-11-19T22:35:16.876Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1178,11 +1178,12 @@
       "id": "10b2c325-c354-424c-86ca-f0269dcf8235",
       "type": "Journal",
       "detail": "",
-      "date": "2026-10-28",
+      "date": "2026-10-23",
       "time": "14:28",
       "carer": "Daddy",
       "title": "Childcare",
       "narrative": "This was my worst nightmare. And it happened. You look like you have been crying for hours for someone to make it all better, and you don't know what else to do. I'm sorry this was done to you, my bello. I never would have allowed it to happen, and I did everything in my power to stop it, even getting sent to prison. You will be there again tomorrow, and I don't know what to do about it. My life is hell knowing that you suffer weekly. One day, daddy will return.",
+      "section": "journal",
       "photos": [
         {
           "file": "2026/10/29/2026-10-29_142830_c583c39f-9316-5418-9637-4f1db05adbfc.jpg",
@@ -1774,9 +1775,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 34232713,
-    "journalBytes": 73742,
-    "previousJournalBytes": 73723,
-    "totalBytes": 34380178,
-    "updatedAt": "2026-11-19T22:34:25.416Z"
+    "journalBytes": 73770,
+    "previousJournalBytes": 73742,
+    "totalBytes": 34380225,
+    "updatedAt": "2026-11-19T22:35:16.877Z"
   }
 }
