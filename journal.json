@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "10435d75-94df-49aa-a175-07100dce76d2",
+  "revision": "cd2b85f7-fc2e-4a49-aaf6-d2aaf8c2995a",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:49:09.532Z",
+  "updatedAt": "2026-11-19T22:51:24.688Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1690,6 +1690,13 @@
             "width": 720,
             "height": 1456
           }
+        },
+        {
+          "file": "2026/05/10/2026-05-10_0920_ceaba44a-4c7d-43ed-9977-28d493d6f6f8.jpg",
+          "originalName": "_DSC5575.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
         }
       ]
     },
@@ -1960,10 +1967,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 38354563,
-    "journalBytes": 79487,
-    "previousJournalBytes": 79478,
-    "totalBytes": 38513528,
-    "updatedAt": "2026-11-19T22:49:09.532Z"
+    "mediaBytes": 38486019,
+    "journalBytes": 79725,
+    "previousJournalBytes": 79487,
+    "totalBytes": 38645231,
+    "updatedAt": "2026-11-19T22:51:24.689Z"
   }
 }
