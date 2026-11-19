@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "cd2b85f7-fc2e-4a49-aaf6-d2aaf8c2995a",
+  "revision": "180095ca-384e-4bac-8ddf-8df779219a1f",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:51:24.688Z",
+  "updatedAt": "2026-11-19T22:58:21.372Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -236,7 +236,8 @@
             "x": 0,
             "y": 302.4,
             "width": 720,
-            "height": 995.2000000000002
+            "height": 995.2000000000002,
+            "rotation": 0
           }
         }
       ]
@@ -341,7 +342,8 @@
             "x": 0,
             "y": 240,
             "width": 1080,
-            "height": 1920
+            "height": 1920,
+            "rotation": 0
           }
         },
         {
@@ -360,7 +362,8 @@
             "x": 0,
             "y": 432,
             "width": 1080,
-            "height": 1528.8
+            "height": 1528.8,
+            "rotation": 0
           }
         },
         {
@@ -1075,7 +1078,8 @@
             "x": 0,
             "y": 314.4,
             "width": 1080,
-            "height": 1941.6
+            "height": 1941.6,
+            "rotation": 0
           }
         },
         {
@@ -1094,7 +1098,8 @@
             "x": 0,
             "y": 321.6,
             "width": 1080,
-            "height": 1905.6000000000001
+            "height": 1905.6000000000001,
+            "rotation": 0
           }
         },
         {
@@ -1113,7 +1118,8 @@
             "x": 0,
             "y": 314.4,
             "width": 1080,
-            "height": 1440
+            "height": 1440,
+            "rotation": 0
           }
         },
         {
@@ -1132,7 +1138,8 @@
             "x": 0,
             "y": 748.8,
             "width": 1080,
-            "height": 1447.2
+            "height": 1447.2,
+            "rotation": 0
           }
         },
         {
@@ -1151,7 +1158,8 @@
             "x": 0,
             "y": 446.4,
             "width": 1080,
-            "height": 1447.2
+            "height": 1447.2,
+            "rotation": 0
           }
         },
         {
@@ -1170,7 +1178,8 @@
             "x": 0,
             "y": 556.8,
             "width": 1080,
-            "height": 1670.3999999999999
+            "height": 1670.3999999999999,
+            "rotation": 0
           }
         }
       ]
@@ -1688,7 +1697,8 @@
             "x": 0,
             "y": 67.2,
             "width": 720,
-            "height": 1456
+            "height": 1456,
+            "rotation": 0
           }
         },
         {
@@ -1724,7 +1734,8 @@
             "x": 0,
             "y": 401.6,
             "width": 720,
-            "height": 796.8
+            "height": 796.8,
+            "rotation": 0
           }
         }
       ]
@@ -1891,11 +1902,21 @@
       "title": "Looking cool at 2 months!",
       "photos": [
         {
-          "file": "2026/07/08/2026-07-08_0945_1fcba8ab-b268-4e4c-98ca-2f8ee93c02ec.jpg",
-          "originalName": "_DSC5691.jpg",
+          "file": "2026/07/08/2026-07-08_0945_7a6df454-f3ef-4446-89ee-7e83d9e86537.jpg",
+          "originalName": "_DSC5691-cropped.jpg",
           "type": "image/jpeg",
           "favourite": false,
-          "caption": ""
+          "caption": "",
+          "cropOriginalFile": "2026/07/08/2026-07-08_0945_1fcba8ab-b268-4e4c-98ca-2f8ee93c02ec.jpg",
+          "cropOriginalDirectory": "media",
+          "cropOriginalName": "_DSC5691.jpg",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1600,
+            "height": 1067,
+            "rotation": 270
+          }
         }
       ]
     },
@@ -1967,10 +1988,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 38486019,
-    "journalBytes": 79725,
-    "previousJournalBytes": 79487,
-    "totalBytes": 38645231,
-    "updatedAt": "2026-11-19T22:51:24.689Z"
+    "mediaBytes": 38676291,
+    "journalBytes": 80377,
+    "previousJournalBytes": 79725,
+    "totalBytes": 38836393,
+    "updatedAt": "2026-11-19T22:58:21.372Z"
   }
 }
