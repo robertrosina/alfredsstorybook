@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "bf16d37d-955c-4d8b-a254-9268076d9ead",
+  "revision": "e3217132-2d69-47b8-be53-bf198a280279",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:35:50.203Z",
+  "updatedAt": "2026-11-19T09:38:25.468Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -12,7 +12,7 @@
       "date": "2026-05-08",
       "time": "11:08",
       "carer": "Daddy",
-      "narrative": "When you came into the world there was a profound peace that came over the delivery room. It was as if divinity itself had decended. That was the most beautiful moment of my life. That is your incredible spirit.",
+      "narrative": "When you came into the world there was a profound peace that came over the delivery room. It stayed there, as we met you, and held you for the first time. It was as if divinity itself had decended. In that moment I leaned that the true nature of existence was that everything is okay, it was not scary like I thought until then. I wondered if the nurses and doctors were aware of it! It was like a miracle, bello. That was the most beautiful moment of my life. That is your incredible spirit.",
       "title": "Alfred's birth day",
       "photos": [
         {
@@ -234,9 +234,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2686720,
-    "journalBytes": 8230,
-    "previousJournalBytes": 8174,
-    "totalBytes": 2703124,
-    "updatedAt": "2026-11-19T09:35:50.205Z"
+    "journalBytes": 8511,
+    "previousJournalBytes": 8230,
+    "totalBytes": 2703461,
+    "updatedAt": "2026-11-19T09:38:25.470Z"
   }
 }
