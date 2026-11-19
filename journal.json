@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "70ffc5b4-c338-450c-b3d9-9f3e777c862e",
+  "revision": "624a8fce-85d9-4caa-8876-93f085ccb7fa",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:08:11.378Z",
+  "updatedAt": "2026-11-19T13:09:04.718Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -786,16 +786,6 @@
           "captureDateNeedsConfirmation": false
         },
         {
-          "file": "2026/10/23/2026-10-23_092528_e1ad4c8d-d9e1-5439-85bc-6f98c369f61d.jpg",
-          "originalName": "IMG_20261023_092525971_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred in his striped sleepsuit.",
-          "dateTaken": "2026-10-23T09:25:28",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
           "file": "2026/10/23/2026-10-23_092704_d835e6c1-f411-5641-a339-9ef3c697ff9a.jpg",
           "originalName": ".trashed-1796049981-IMG_20261023_092703148.jpg",
           "type": "image/jpeg",
@@ -1192,6 +1182,16 @@
           "dateTaken": "2026-10-29T14:28:39",
           "dateSource": "EXIF DateTimeOriginal",
           "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092528_e1ad4c8d-d9e1-5439-85bc-6f98c369f61d.jpg",
+          "originalName": "IMG_20261023_092525971_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateTaken": "2026-10-23T09:25:28",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
         }
       ]
     },
@@ -1527,8 +1527,8 @@
     "budgetBytes": 1000000000,
     "mediaBytes": 30012814,
     "journalBytes": 65883,
-    "previousJournalBytes": 66056,
-    "totalBytes": 30144753,
-    "updatedAt": "2026-11-19T13:08:11.379Z"
+    "previousJournalBytes": 65883,
+    "totalBytes": 30144580,
+    "updatedAt": "2026-11-19T13:09:04.718Z"
   }
 }
