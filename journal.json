@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "62d0b2eb-5ebf-481d-b147-0cd0228f1901",
+  "revision": "ed35ae98-d0d8-4fda-8d5e-8762a7796d74",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:32:25.453Z",
+  "updatedAt": "2026-11-19T22:33:44.610Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -148,7 +148,23 @@
       "carer": "Daddy",
       "narrative": "\"I'm coming bello!\" I say that all the time throughout the day. One day my love we will be back together, you in my arms, forever.",
       "title": "I love my bello.",
-      "photos": []
+      "section": "journal",
+      "photos": [
+        {
+          "file": "2026/11/19/2026-11-19_1706_c34f9679-a08c-4acd-90e5-f3bd74adc957.jpg",
+          "originalName": "_DSC5782.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Centennial park"
+        },
+        {
+          "file": "2026/11/19/2026-11-19_1706_2871c641-caff-4f1e-95d5-584dc89c9695.jpg",
+          "originalName": "_DSC5889.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Lane Cove out the back of our apartment"
+        }
+      ]
     },
     {
       "id": 1795068662489,
@@ -1757,10 +1773,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 33750388,
-    "journalBytes": 73159,
-    "previousJournalBytes": 72893,
-    "totalBytes": 33896440,
-    "updatedAt": "2026-11-19T22:32:25.454Z"
+    "mediaBytes": 34232713,
+    "journalBytes": 73723,
+    "previousJournalBytes": 73159,
+    "totalBytes": 34379595,
+    "updatedAt": "2026-11-19T22:33:44.610Z"
   }
 }
