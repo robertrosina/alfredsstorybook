@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "8c0106d2-14d8-40f2-8988-e66f9123bb5c",
+  "revision": "f11f4b34-9d97-4024-a5f5-f314222f4d9f",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:01:12.420Z",
+  "updatedAt": "2026-11-19T13:01:59.510Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1495,6 +1495,13 @@
           "type": "image/jpeg",
           "favourite": false,
           "caption": ""
+        },
+        {
+          "file": "2026/03/19/2026-03-19_2359_a07513b3-c87c-4fea-b8b9-4b5c9ee9885c.jpg",
+          "originalName": "Screenshot_20260614_125550_One UI Home.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
         }
       ]
     }
@@ -1518,10 +1525,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 29943135,
-    "journalBytes": 65938,
-    "previousJournalBytes": 65776,
-    "totalBytes": 30074849,
-    "updatedAt": "2026-11-19T13:01:12.421Z"
+    "mediaBytes": 30012814,
+    "journalBytes": 66206,
+    "previousJournalBytes": 65938,
+    "totalBytes": 30144958,
+    "updatedAt": "2026-11-19T13:01:59.510Z"
   }
 }
