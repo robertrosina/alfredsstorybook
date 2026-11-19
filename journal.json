@@ -1,8 +1,33 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "f33d3b2e-7516-4c33-b5b4-e509e5e1b16e",
+  "revision": "f7a3732b-fa8a-4a8b-ae21-00bbe271f67a",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-18T04:26:45.127Z",
-  "entries": []
+  "updatedAt": "2026-11-19T02:58:22.011Z",
+  "entries": [],
+  "profilePhoto": {
+    "file": "profile/profile.jpg",
+    "directory": "media",
+    "originalName": "IMG-20260919-WA0000.jpg",
+    "type": "image/jpeg",
+    "archiveFile": "profile/2026/11/2026-11-19_059a7134-1c20-4a98-8358-c61eeb1e216b.jpg",
+    "archiveDirectory": "media",
+    "updatedAt": "2026-11-19T02:58:22.013Z"
+  },
+  "profileHistory": [
+    {
+      "file": "profile/2026/11/2026-11-19_059a7134-1c20-4a98-8358-c61eeb1e216b.jpg",
+      "directory": "media",
+      "originalName": "IMG-20260919-WA0000.jpg",
+      "updatedAt": "2026-11-19T02:58:22.013Z"
+    }
+  ],
+  "storage": {
+    "budgetBytes": 1000000000,
+    "mediaBytes": 478698,
+    "journalBytes": 972,
+    "previousJournalBytes": 194,
+    "totalBytes": 479864,
+    "updatedAt": "2026-11-19T02:58:22.013Z"
+  }
 }
