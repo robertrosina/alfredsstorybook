@@ -1,0 +1,32 @@
+MYBELLOALFRED.COM — GITHUB PAGES + PORKBUN
+
+1. Upload index.html, favicon.ico, apple-touch-icon.png and CNAME to
+   the root of robertrosina/alfredsstorybook.
+2. Open GitHub repository Settings > Pages. Under Custom domain enter
+   mybelloalfred.com and Save. Do this before changing DNS.
+3. In Porkbun, open Domain Management > mybelloalfred.com > DNS.
+   Under Quick DNS Config choose GitHub. Confirm the reconfiguration.
+   For the additional CNAME, enter Host: www and Answer:
+   robertrosina.github.io
+   Then submit. The value has no https:// prefix or repository path.
+4. After DNS checks pass and the certificate is ready, enable Enforce
+   HTTPS in GitHub Pages settings. DNS/certificates can take up to 24 hours.
+
+Manual DNS alternative (Porkbun root Host is blank):
+A      [blank]    185.199.108.153
+A      [blank]    185.199.109.153
+A      [blank]    185.199.110.153
+A      [blank]    185.199.111.153
+CNAME  www        robertrosina.github.io
+Replace conflicting website/parking records for the root and www;
+keep unrelated email and TXT records. Use Porkbun nameservers if managing
+these DNS records at Porkbun.
+
+Your new address is https://mybelloalfred.com once setup completes.
+The new domain has separate browser storage. Enter your token once there
+and check Remember me on this computer. The repository defaults are
+pre-filled; the same journal and media are used.
+
+Official guides:
+https://kb.porkbun.com/article/64-how-to-connect-your-domain-to-github-pages
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
