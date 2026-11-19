@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "a74fbecf-6858-45df-93be-b58bc1e6a6a9",
+  "revision": "347972fa-345c-4057-84d7-ac9de2e01cb9",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:43:39.254Z",
+  "updatedAt": "2026-11-19T12:46:36.856Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -929,206 +929,6 @@
           "captureDateNeedsConfirmation": false
         },
         {
-          "file": "2026/10/25/2026-10-25_123806_dbbefcb4-d04a-5642-bb1f-10a425ad80eb.jpg",
-          "originalName": ".trashed-1796049725-IMG_20261025_123801022_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:38:06",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125235_04d4ca45-3d6b-5a3e-b4d8-cde9756d7827.jpg",
-          "originalName": ".trashed-1796049721-IMG_20261025_125232629_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:35",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125240_902cbf59-df29-5397-826f-bce461e94409.jpg",
-          "originalName": "IMG_20261025_125235308_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:40",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125242_24bd157d-dcc3-5ccb-8732-ea7d8225ad8d.jpg",
-          "originalName": ".trashed-1796049715-IMG_20261025_125237327_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:42",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125242_fcfb5ae9-fa5d-5046-92b2-0667f7064212.jpg",
-          "originalName": "IMG_20261025_125238278_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:42",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125248_4fb41035-14f0-5679-8d13-9d163a17d070.jpg",
-          "originalName": "IMG_20261025_125243530_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:48",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125252_97b9c8cf-2ca8-5dfe-9aa9-bdfb7a71fb41.jpg",
-          "originalName": ".trashed-1796049667-IMG_20261025_125245095_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:52",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125255_240fe618-198c-5c4b-93f5-afd3ae7881eb.jpg",
-          "originalName": ".trashed-1796049649-IMG_20261025_125246127_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:55",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125257_e84a7969-3a27-561b-a2b9-f74c280ffa31.jpg",
-          "originalName": "IMG_20261025_125249073_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:57",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125258_ff05cd10-096a-57b2-af00-7645aaa90996.jpg",
-          "originalName": "IMG_20261025_125252727_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:52:58",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125309_71bc5275-646f-5c27-bb30-20d8f33738ef.jpg",
-          "originalName": ".trashed-1795486789-IMG_20261025_125308957.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:09",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125318_5cfd736d-ece7-5387-9d1b-c1096e25ff1a.jpg",
-          "originalName": "IMG_20261025_125313165_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:18",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125322_fad50729-db28-5321-b0aa-be7efe157114.jpg",
-          "originalName": "IMG_20261025_125314488_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:22",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125327_9ffd2b0f-22cb-58ba-9ae1-0eb0c8749785.jpg",
-          "originalName": "IMG_20261025_125317777_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:27",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125331_2b81c41e-b26f-5acc-8e0c-76d164a303b7.jpg",
-          "originalName": "IMG_20261025_125319815_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:31",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125333_37514c4f-ece1-5605-820b-81664d5aadcb.jpg",
-          "originalName": "IMG_20261025_125324128_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:33",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125335_2bd460d0-9832-5aeb-8664-7c770eec5ce0.jpg",
-          "originalName": "IMG_20261025_125327749_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:35",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125338_a409810b-64bb-5e57-89cc-57fef3b6b110.jpg",
-          "originalName": "IMG_20261025_125332735_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:38",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_125341_d04a526e-d75e-534f-ae8a-c8d1f9d3b5d4.jpg",
-          "originalName": "IMG_20261025_125335212_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T12:53:41",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/25/2026-10-25_131924_5360c293-01a6-5eea-b611-aef48356f68c.jpg",
-          "originalName": ".trashed-1796049516-IMG_20261025_131920413_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Family photographs among the outdoor market stalls.",
-          "dateTaken": "2026-10-25T13:19:24",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
           "file": "2026/10/27/2026-10-27_151150_c2f11f41-c1a0-5dd4-a7a6-91fd3890a29c.jpg",
           "originalName": "IMG_20261027_151148868.jpg",
           "type": "image/jpeg",
@@ -1427,6 +1227,218 @@
           "captureDateNeedsConfirmation": false
         }
       ]
+    },
+    {
+      "id": "0d13a1e3-85d7-4c51-9649-c01f54490754",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-10-25",
+      "time": "12:38",
+      "carer": "Daddy",
+      "title": "Norton St Festa",
+      "narrative": "This was your first festa. The Norton Street Festa was an important day for Italians living in Sydney. I had gone to the festa since I was a little kid. I would have loved to be with you on this day. I tried but was not allowed to see you because your mother said that I could not. I tried to see you for these past two months, but your mother said I could not. She has kept us apart.",
+      "photos": [
+        {
+          "file": "2026/10/25/2026-10-25_123806_dbbefcb4-d04a-5642-bb1f-10a425ad80eb.jpg",
+          "originalName": ".trashed-1796049725-IMG_20261025_123801022_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:38:06",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125235_04d4ca45-3d6b-5a3e-b4d8-cde9756d7827.jpg",
+          "originalName": ".trashed-1796049721-IMG_20261025_125232629_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:35",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125240_902cbf59-df29-5397-826f-bce461e94409.jpg",
+          "originalName": "IMG_20261025_125235308_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:40",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125242_24bd157d-dcc3-5ccb-8732-ea7d8225ad8d.jpg",
+          "originalName": ".trashed-1796049715-IMG_20261025_125237327_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:42",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125242_fcfb5ae9-fa5d-5046-92b2-0667f7064212.jpg",
+          "originalName": "IMG_20261025_125238278_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:42",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125248_4fb41035-14f0-5679-8d13-9d163a17d070.jpg",
+          "originalName": "IMG_20261025_125243530_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:48",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125252_97b9c8cf-2ca8-5dfe-9aa9-bdfb7a71fb41.jpg",
+          "originalName": ".trashed-1796049667-IMG_20261025_125245095_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:52",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125255_240fe618-198c-5c4b-93f5-afd3ae7881eb.jpg",
+          "originalName": ".trashed-1796049649-IMG_20261025_125246127_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:55",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125257_e84a7969-3a27-561b-a2b9-f74c280ffa31.jpg",
+          "originalName": "IMG_20261025_125249073_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:57",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125258_ff05cd10-096a-57b2-af00-7645aaa90996.jpg",
+          "originalName": "IMG_20261025_125252727_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:52:58",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125309_71bc5275-646f-5c27-bb30-20d8f33738ef.jpg",
+          "originalName": ".trashed-1795486789-IMG_20261025_125308957.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:09",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125318_5cfd736d-ece7-5387-9d1b-c1096e25ff1a.jpg",
+          "originalName": "IMG_20261025_125313165_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:18",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125322_fad50729-db28-5321-b0aa-be7efe157114.jpg",
+          "originalName": "IMG_20261025_125314488_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:22",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125327_9ffd2b0f-22cb-58ba-9ae1-0eb0c8749785.jpg",
+          "originalName": "IMG_20261025_125317777_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:27",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125331_2b81c41e-b26f-5acc-8e0c-76d164a303b7.jpg",
+          "originalName": "IMG_20261025_125319815_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:31",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125333_37514c4f-ece1-5605-820b-81664d5aadcb.jpg",
+          "originalName": "IMG_20261025_125324128_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:33",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125335_2bd460d0-9832-5aeb-8664-7c770eec5ce0.jpg",
+          "originalName": "IMG_20261025_125327749_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:35",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125338_a409810b-64bb-5e57-89cc-57fef3b6b110.jpg",
+          "originalName": "IMG_20261025_125332735_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:38",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125341_d04a526e-d75e-534f-ae8a-c8d1f9d3b5d4.jpg",
+          "originalName": "IMG_20261025_125335212_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T12:53:41",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/25/2026-10-25_131924_5360c293-01a6-5eea-b611-aef48356f68c.jpg",
+          "originalName": ".trashed-1796049516-IMG_20261025_131920413_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateTaken": "2026-10-25T13:19:24",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1449,9 +1461,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 29408993,
-    "journalBytes": 62831,
-    "previousJournalBytes": 0,
-    "totalBytes": 29471824,
-    "updatedAt": "2026-11-19T12:43:39.284Z"
+    "journalBytes": 63486,
+    "previousJournalBytes": 62831,
+    "totalBytes": 29535310,
+    "updatedAt": "2026-11-19T12:46:36.856Z"
   }
 }
