@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "1891346f-30b1-4ed9-ad95-d0ea3ff3c923",
+  "revision": "a74fbecf-6858-45df-93be-b58bc1e6a6a9",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:31:55.705Z",
+  "updatedAt": "2026-11-19T12:43:39.254Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1179,86 +1179,6 @@
           "captureDateNeedsConfirmation": false
         },
         {
-          "file": "2026/10/30/2026-10-30_120008_426d3903-3007-5811-b884-c65b688bced7.jpg",
-          "originalName": "IMG_20261030_120007604.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Photographed document.",
-          "dateTaken": "2026-10-30T12:00:08",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/30/2026-10-30_120013_35ed31f2-e070-56e4-82e7-02eb9bf6ebc7.jpg",
-          "originalName": "IMG_20261030_120013017.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Photographed document.",
-          "dateTaken": "2026-10-30T12:00:13",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/30/2026-10-30_120016_548e4164-95c5-59cf-9fdd-45d881f37aa4.jpg",
-          "originalName": "IMG_20261030_120016076.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Photographed document.",
-          "dateTaken": "2026-10-30T12:00:16",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/30/2026-10-30_120022_3341862c-fdde-50d1-943c-867589af7485.jpg",
-          "originalName": "IMG_20261030_120022013.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Photographed document.",
-          "dateTaken": "2026-10-30T12:00:22",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/30/2026-10-30_124147_f616621e-76f0-5809-ba33-140aadb69ceb.jpg",
-          "originalName": "IMG_20261030_124145515_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "The kitchen sink and tap.",
-          "dateTaken": "2026-10-30T12:41:47",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/30/2026-10-30_131607_63b90e06-1582-5ef4-8571-e0894ceb4ef8.jpg",
-          "originalName": "IMG_20261030_131606019.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Handwritten notes.",
-          "dateTaken": "2026-10-30T13:16:07",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/30/2026-10-30_131622_4626a6f2-a8ba-5825-b6ad-5df7fc80b0f9.jpg",
-          "originalName": "IMG_20261030_131621264.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Handwritten notes.",
-          "dateTaken": "2026-10-30T13:16:22",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/30/2026-10-30_131701_bd908670-8d9d-56d0-afdf-7741d8ad83f9.jpg",
-          "originalName": "IMG_20261030_131700376.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Handwritten notes.",
-          "dateTaken": "2026-10-30T13:17:01",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
           "file": "2026/10/30/2026-10-30_145025_d8826cef-f102-56b3-b458-113ba5365ed5.jpg",
           "originalName": "IMG_20261030_145025036.jpg",
           "type": "image/jpeg",
@@ -1528,10 +1448,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 31983359,
-    "journalBytes": 66190,
-    "previousJournalBytes": 65459,
-    "totalBytes": 32115008,
-    "updatedAt": "2026-11-19T12:31:55.706Z"
+    "mediaBytes": 29408993,
+    "journalBytes": 62831,
+    "previousJournalBytes": 0,
+    "totalBytes": 29471824,
+    "updatedAt": "2026-11-19T12:43:39.284Z"
   }
 }
