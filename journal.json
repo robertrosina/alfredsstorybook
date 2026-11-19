@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "6717b092-cced-466f-99ff-88fe4861cd57",
+  "revision": "38921863-bbf8-4100-886a-6c44a8bdf182",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T05:33:58.101Z",
+  "updatedAt": "2026-11-19T05:40:15.627Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -77,7 +77,7 @@
       "detail": "",
       "date": "2026-10-19",
       "time": "15:12",
-      "carer": "Robert",
+      "carer": "Nonna",
       "narrative": "",
       "title": "Red and Blue Alfred (Date Unknown)",
       "photos": [
@@ -166,9 +166,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2198119,
-    "journalBytes": 5404,
-    "previousJournalBytes": 0,
-    "totalBytes": 2203523,
-    "updatedAt": "2026-11-19T05:33:58.119Z"
+    "journalBytes": 5406,
+    "previousJournalBytes": 5404,
+    "totalBytes": 2208929,
+    "updatedAt": "2026-11-19T05:40:15.627Z"
   }
 }
