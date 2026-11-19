@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "624a8fce-85d9-4caa-8876-93f085ccb7fa",
+  "revision": "16d5665e-2d23-4b99-a901-463ffb58c337",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:09:04.718Z",
+  "updatedAt": "2026-11-19T13:09:56.866Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1188,7 +1188,7 @@
           "originalName": "IMG_20261023_092525971_HDR.jpg",
           "type": "image/jpeg",
           "favourite": false,
-          "caption": "Alfred in his striped sleepsuit.",
+          "caption": "Such a poor place for a prince such as you. A place of neglect.",
           "dateTaken": "2026-10-23T09:25:28",
           "dateSource": "EXIF DateTimeOriginal",
           "captureDateNeedsConfirmation": false
@@ -1526,9 +1526,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 30012814,
-    "journalBytes": 65883,
+    "journalBytes": 65914,
     "previousJournalBytes": 65883,
-    "totalBytes": 30144580,
-    "updatedAt": "2026-11-19T13:09:04.718Z"
+    "totalBytes": 30144611,
+    "updatedAt": "2026-11-19T13:09:56.867Z"
   }
 }
