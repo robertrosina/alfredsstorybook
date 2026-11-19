@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "b37303f7-fa1c-42a6-814a-8ade6d477d72",
+  "revision": "d44189e8-dd39-42d3-8057-eb2bd475c273",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:20:39.691Z",
+  "updatedAt": "2026-11-19T09:29:54.874Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -193,6 +193,25 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795080593346,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-06-04",
+      "time": "20:26",
+      "carer": "Daddy",
+      "narrative": "When you were young my bello you looked so weird! We thought maybe you would be weird looking, and I would say \"I will love him anyway he looks\". I would say, \"He is going to be such a great person it won't matter!\".",
+      "title": "Mummy's blue pyjamas",
+      "photos": [
+        {
+          "file": "2026/06/04/2026-06-04_2026_f1e27c64-cba3-4f60-b03c-b7de55e25eee.jpg",
+          "originalName": "1000177393.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -214,10 +233,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 2558833,
-    "journalBytes": 7262,
-    "previousJournalBytes": 7130,
-    "totalBytes": 2573225,
-    "updatedAt": "2026-11-19T09:20:39.693Z"
+    "mediaBytes": 2686720,
+    "journalBytes": 7969,
+    "previousJournalBytes": 7262,
+    "totalBytes": 2701951,
+    "updatedAt": "2026-11-19T09:29:54.876Z"
   }
 }
