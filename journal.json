@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "347972fa-345c-4057-84d7-ac9de2e01cb9",
+  "revision": "cfa2a6fc-998a-4af5-bf8b-ca477e90756a",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:46:36.856Z",
+  "updatedAt": "2026-11-19T12:49:14.583Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -829,66 +829,6 @@
           "captureDateNeedsConfirmation": false
         },
         {
-          "file": "2026/10/24/2026-10-24_120000_de6f9a12-d21c-5d6e-b3df-f493ddb0af62.jpg",
-          "originalName": "IMG-20261024-WA0006.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred sitting with a family member by the window.",
-          "dateTaken": "2026-10-24T12:00:00",
-          "dateSource": "Filename date; capture date unconfirmed",
-          "captureDateNeedsConfirmation": true
-        },
-        {
-          "file": "2026/10/24/2026-10-24_162342_a8db51ea-bc8c-5658-b9c8-e4f23ee98f26.jpg",
-          "originalName": "IMG_20261024_162337751_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Looking at a picture book together.",
-          "dateTaken": "2026-10-24T16:23:42",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/24/2026-10-24_162343_2c3e4a33-66f0-57f7-822a-4ae5a1baeb67.jpg",
-          "originalName": "IMG_20261024_162341306_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Looking at a picture book together by the window.",
-          "dateTaken": "2026-10-24T16:23:43",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/24/2026-10-24_162350_81d10eab-177b-5e96-af12-55f20f711cef.jpg",
-          "originalName": "IMG_20261024_162347940_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Looking at a picture book together by the window.",
-          "dateTaken": "2026-10-24T16:23:50",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/24/2026-10-24_162357_ba2ed1d5-a7cf-5043-83c2-43da4c8da211.jpg",
-          "originalName": "IMG_20261024_162355365_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Looking at a picture book together by the window.",
-          "dateTaken": "2026-10-24T16:23:57",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
-          "file": "2026/10/24/2026-10-24_162429_30beb4fd-e310-5490-a257-747eb67a522e.jpg",
-          "originalName": "IMG_20261024_162425579_HDR.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred beside the open book, with his yellow toy in front of him.",
-          "dateTaken": "2026-10-24T16:24:29",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
-        },
-        {
           "file": "2026/10/24/2026-10-24_173830_3e4ffa5e-4175-5209-8e33-8ea897c84405.jpg",
           "originalName": ".trashed-1796049748-IMG_20261024_173829593.jpg",
           "type": "image/jpeg",
@@ -1439,6 +1379,78 @@
           "captureDateNeedsConfirmation": false
         }
       ]
+    },
+    {
+      "id": "4a8d77f3-f5c8-4cfc-ba25-a5cb6cc36bb7",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-10-24",
+      "time": "12:00",
+      "carer": "Daddy",
+      "title": "Owl Fred and the Giant!",
+      "narrative": "Your nonna tells this story. She says that you love the book I wrote for you. That when presented with any other book to read, you will prefer the book I wrote for you. I take that as meaning that you miss me. I miss you too bello, I would do anything to be with you. If I were to try again, they would throw me in a hole for two years. I am sorry for not being all powerful — this world, and your mother, have used their power to keep us apart.",
+      "photos": [
+        {
+          "file": "2026/10/24/2026-10-24_120000_de6f9a12-d21c-5d6e-b3df-f493ddb0af62.jpg",
+          "originalName": "IMG-20261024-WA0006.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a family member by the window.",
+          "dateTaken": "2026-10-24T12:00:00",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162342_a8db51ea-bc8c-5658-b9c8-e4f23ee98f26.jpg",
+          "originalName": "IMG_20261024_162337751_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together.",
+          "dateTaken": "2026-10-24T16:23:42",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162343_2c3e4a33-66f0-57f7-822a-4ae5a1baeb67.jpg",
+          "originalName": "IMG_20261024_162341306_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together by the window.",
+          "dateTaken": "2026-10-24T16:23:43",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162350_81d10eab-177b-5e96-af12-55f20f711cef.jpg",
+          "originalName": "IMG_20261024_162347940_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together by the window.",
+          "dateTaken": "2026-10-24T16:23:50",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162357_ba2ed1d5-a7cf-5043-83c2-43da4c8da211.jpg",
+          "originalName": "IMG_20261024_162355365_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together by the window.",
+          "dateTaken": "2026-10-24T16:23:57",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162429_30beb4fd-e310-5490-a257-747eb67a522e.jpg",
+          "originalName": "IMG_20261024_162425579_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred beside the open book, with his yellow toy in front of him.",
+          "dateTaken": "2026-10-24T16:24:29",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1461,9 +1473,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 29408993,
-    "journalBytes": 63486,
-    "previousJournalBytes": 62831,
-    "totalBytes": 29535310,
-    "updatedAt": "2026-11-19T12:46:36.856Z"
+    "journalBytes": 64208,
+    "previousJournalBytes": 63486,
+    "totalBytes": 29536687,
+    "updatedAt": "2026-11-19T12:49:14.584Z"
   }
 }
