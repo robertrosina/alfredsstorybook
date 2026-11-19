@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "355c7b0b-e82e-4d9d-85e2-eaf91f1950dc",
+  "revision": "9bc6e9ce-992e-4118-90f2-41b388afb61c",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:22:43.545Z",
+  "updatedAt": "2026-11-19T22:23:59.526Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1666,6 +1666,26 @@
           }
         }
       ]
+    },
+    {
+      "id": 1795127038475,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-09-20",
+      "time": "09:23",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "The Rosina Family",
+      "photos": [
+        {
+          "file": "2026/09/20/2026-09-20_0923_b147107a-3e73-4bd7-ab7b-a8124f36565b.jpg",
+          "originalName": "Screenshot_20260627_123338_WhatsApp.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1687,10 +1707,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32945121,
-    "journalBytes": 71189,
-    "previousJournalBytes": 70831,
-    "totalBytes": 33087141,
-    "updatedAt": "2026-11-19T22:22:43.546Z"
+    "mediaBytes": 33046415,
+    "journalBytes": 71726,
+    "previousJournalBytes": 71189,
+    "totalBytes": 33189330,
+    "updatedAt": "2026-11-19T22:23:59.527Z"
   }
 }
