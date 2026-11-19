@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "42771cd7-d9da-4817-b4dd-0c03854231b0",
+  "revision": "c4c3d3de-0e84-46a3-9eda-810921d7a871",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:53:21.164Z",
+  "updatedAt": "2026-11-19T13:00:55.543Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1478,6 +1478,25 @@
           "captureDateNeedsConfirmation": false
         }
       ]
+    },
+    {
+      "id": 1795093254470,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-03-19",
+      "time": "23:59",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Ultrasound monster!",
+      "photos": [
+        {
+          "file": "2026/03/19/2026-03-19_2359_332157e3-d8ba-4d5e-a879-6b4cece3251d.jpg",
+          "originalName": "60cd6cad-6bcf-4966-97c8-139fd8e6a4f1.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1499,10 +1518,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 29926794,
-    "journalBytes": 65264,
-    "previousJournalBytes": 64909,
-    "totalBytes": 30056967,
-    "updatedAt": "2026-11-19T12:53:21.164Z"
+    "mediaBytes": 29943135,
+    "journalBytes": 65776,
+    "previousJournalBytes": 65264,
+    "totalBytes": 30074175,
+    "updatedAt": "2026-11-19T13:00:55.544Z"
   }
 }
