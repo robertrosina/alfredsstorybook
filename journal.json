@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "cfa2a6fc-998a-4af5-bf8b-ca477e90756a",
+  "revision": "ac9ef17e-176e-4a1c-be63-554dd00ef7a3",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:49:14.583Z",
+  "updatedAt": "2026-11-19T12:51:56.165Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -205,11 +205,20 @@
       "title": "Mummy's blue pyjamas",
       "photos": [
         {
-          "file": "2026/06/04/2026-06-04_2026_f1e27c64-cba3-4f60-b03c-b7de55e25eee.jpg",
-          "originalName": "1000177393.jpg",
+          "file": "2026/06/04/2026-06-04_2026_78a86440-ab32-46be-a9e9-4de7bb47257e.jpg",
+          "originalName": "1000177393-cropped.jpg",
           "type": "image/jpeg",
           "favourite": false,
-          "caption": ""
+          "caption": "",
+          "cropOriginalFile": "2026/06/04/2026-06-04_2026_f1e27c64-cba3-4f60-b03c-b7de55e25eee.jpg",
+          "cropOriginalDirectory": "media",
+          "cropOriginalName": "1000177393.jpg",
+          "crop": {
+            "x": 0,
+            "y": 302.4,
+            "width": 720,
+            "height": 995.2000000000002
+          }
         }
       ]
     },
@@ -1472,10 +1481,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 29408993,
-    "journalBytes": 64208,
-    "previousJournalBytes": 63486,
-    "totalBytes": 29536687,
-    "updatedAt": "2026-11-19T12:49:14.584Z"
+    "mediaBytes": 29541067,
+    "journalBytes": 64552,
+    "previousJournalBytes": 64208,
+    "totalBytes": 29669827,
+    "updatedAt": "2026-11-19T12:51:56.166Z"
   }
 }
