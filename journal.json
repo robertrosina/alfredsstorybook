@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "f4367cfb-c4f8-4d61-8618-dac9b4537935",
+  "revision": "73768456-2d8f-4221-8e0d-93c92dc3bda1",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T06:06:38.306Z",
+  "updatedAt": "2026-11-19T06:07:12.829Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -152,8 +152,8 @@
       "date": "2026-11-19",
       "time": "17:06",
       "carer": "Daddy",
-      "narrative": "I love my bello.",
-      "title": "",
+      "narrative": "",
+      "title": "I love my bello.",
       "photos": []
     }
   ],
@@ -178,8 +178,8 @@
     "budgetBytes": 1000000000,
     "mediaBytes": 2198119,
     "journalBytes": 5642,
-    "previousJournalBytes": 5405,
-    "totalBytes": 2209166,
-    "updatedAt": "2026-11-19T06:06:38.307Z"
+    "previousJournalBytes": 5642,
+    "totalBytes": 2209403,
+    "updatedAt": "2026-11-19T06:07:12.831Z"
   }
 }
