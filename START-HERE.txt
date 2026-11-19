@@ -1,23 +1,64 @@
-ALFRED'S STORYBOOK — REMEMBER ME ON THIS COMPUTER
+MY BELLO ALFRED — ALFRED'S STORYBOOK
 
-1. Upload index.html and site-config.js to the repository root.
-   The empty site-config.js replaces the earlier shared-token configuration.
-2. Wait for GitHub Pages deployment, then refresh with Ctrl+Shift+R.
-3. Open Connect GitHub, enter your repository token, keep
-   Remember me on this computer checked, and connect.
+UPDATE YOUR WEBSITE
+For an existing installation, replace index.html in the repository root.
+Wait for GitHub Pages deployment, then refresh with Ctrl+Shift+R.
+Keep your existing journal.json and media files; this ZIP excludes those.
+The font licence is included in HANDWRITING-FONT-LICENSE.txt.
 
-This browser will reconnect automatically after you leave and return.
-Disconnect removes the saved token from this browser. Uncheck Remember me
-before connecting to use the current visit only. Reconnecting while unchecked
-removes any previously saved connection.
+CURRENT LAYOUT
+- The teddy is in the top-left logo, above the Connect / Add entry button.
+- The colourful main heading uses a true handwriting font, with
+  Alfred's Storybook directly beneath it.
+- Navigation order: All posts, Years & months, Milestones, Favourite photos,
+  Loved posts, then search. Search sits at the right on wide screens and
+  wraps when necessary on a phone.
+- The month list is collapsible and starts closed.
+- Totals, storage meter and the mybelloalfred.com link are at the bottom
+  of the left column. Image containers match the pale grey-blue page.
 
-The token is saved in this browser's IndexedDB storage. It is not written to
-site-config.js, journal.json, backups or the GitHub repository. Browser data
-clearing, private browsing, token expiration or revocation requires reconnection.
-Use a computer you trust. Other browsers/devices need their own connection.
+GITHUB CONNECTION
+Connect once using a fine-grained token limited to this repository, with
+Contents read/write access. Check Remember me on this computer to reconnect
+automatically. Disconnect clears that browser's saved token. Connection
+settings are available through the gear beside the sidebar posting name.
+Tokens stay in browser storage and are excluded from the ZIP, journal and
+media. Clearing browser data or using another device requires reconnection.
 
-No token is included in this archive. If you published a token in an earlier
-site-config.js, revoke it and use a replacement; older commits may retain it.
+POSTS, PHOTOS AND VIDEOS
+The main feed scrolls across all months and years, newest first.
+Entries can be edited and accept up to six photos/videos by click or drop.
+Photos: JPG/PNG/WebP, 15 MB input limit; a 1,600-pixel JPEG copy at quality
+0.8 is saved when smaller than the original. The preview shows file savings.
+Videos: MP4/WebM, up to 50 MB each, with playback controls and no autoplay.
+Files use dated media/YYYY/MM/DD folders and count toward the 1 GB meter.
+Deleting unused files removes them from the current repository snapshot and
+prunes empty date folders. Older GitHub commits can retain earlier files.
 
-Existing journal.json and photographs are excluded from this update.
-No Cloudflare deployment or shared-token configuration is used.
+FAVOURITES AND HEARTS
+Click a photo to open its viewer and use the favourite star. Hearts are
+on posts. Favourite photos and Loved posts have separate scrolling views.
+These are shared journal selections saved in GitHub, not per-user reactions.
+
+PROFILE PICTURES
+Click the profile picture for change/remove/history controls. Set profile
+photo stays visible when none is set. Current photo uses media/profile/
+profile.jpg with dated archived copies. Browse older images to delete them.
+
+DOMAIN AND ICON FILES
+For first-time domain/icon setup upload CNAME, favicon.ico and
+apple-touch-icon.png as well, and follow CUSTOM-DOMAIN.txt.
+The primary favicon, teddy logo and handwriting font are embedded in
+index.html. The custom domain is mybelloalfred.com. A new domain has separate
+browser storage, so reconnect once there and check Remember me.
+
+CLICKABLE AUTHOR ATTRIBUTION
+The sidebar shows D Daddy by default. Click the name to choose Daddy,
+Mummy or Nonna as the default author for new posts. This preference is
+remembered in this browser. The separate gear opens connection settings.
+Click the author/avatar on an existing post to change that post's recorded
+author. That change is saved in GitHub and follows the journal across devices.
+Older Robert labels display as Daddy (D), and Lena as Nonna (N).
+These names identify attribution; selecting one does not authenticate a user.
+
+Mobile layout: tap Menu beside the bear to open dates, settings, storage and your name. The green connect/add-entry button stays visible. Forms and media controls adapt to small screens.
