@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "4fb6e070-2968-4dec-8fad-2c3013220bf4",
+  "revision": "85dcd4a8-fff0-4798-9b44-6b5306fed8eb",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:24:22.993Z",
+  "updatedAt": "2026-11-19T22:25:25.631Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1695,6 +1695,26 @@
           }
         }
       ]
+    },
+    {
+      "id": 1795127124571,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-05-09",
+      "time": "09:25",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Meeting your nonna!",
+      "photos": [
+        {
+          "file": "2026/05/09/2026-05-09_0925_9b7258b3-db41-4079-a310-af4cd564b5ef.jpg",
+          "originalName": "_DSC5473.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1716,10 +1736,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 33149290,
-    "journalBytes": 72083,
-    "previousJournalBytes": 71726,
-    "totalBytes": 33293099,
-    "updatedAt": "2026-11-19T22:24:22.993Z"
+    "mediaBytes": 33367958,
+    "journalBytes": 72595,
+    "previousJournalBytes": 72083,
+    "totalBytes": 33512636,
+    "updatedAt": "2026-11-19T22:25:25.631Z"
   }
 }
