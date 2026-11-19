@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "5bd640fe-3fd3-4ed3-b612-1d81e2c3288c",
+  "revision": "7f5680f3-9827-4538-907f-e59b1da1726e",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:13:08.417Z",
+  "updatedAt": "2026-11-19T22:15:34.960Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -231,7 +231,30 @@
       "carer": "Daddy",
       "narrative": "On the night before you were born, there were two omens, and there was one omen when you were born: three in total.\n\nFirst, there was a wolf that we saw. Okay, it was a husky. Still, it was a sign.\n\nNext, I found a two dollar coin on the street. The highest possible coin, the highest possible luck.\n\nFinally, one of the midwives was called Asha. She didn't know the divine meaning of her name, but I explained it to her. It means truth, bello. Divine, ultimate truth.",
       "title": "Three omens",
-      "photos": []
+      "section": "journal",
+      "photos": [
+        {
+          "file": "2026/05/07/2026-05-07_2047_3c2a678e-b38e-471e-85d5-a3eb1a164e52.jpg",
+          "originalName": "20260507_164621.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/05/07/2026-05-07_2047_84791a5b-11f4-4ad9-9ea3-8769dddf1ee0.jpg",
+          "originalName": "20260507_164545.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/05/07/2026-05-07_2047_c0ba058a-9798-46b4-b617-6f3fd79bd797.jpg",
+          "originalName": "20260508_075948.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     },
     {
       "id": 26371402808237,
@@ -1573,10 +1596,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 31104999,
-    "journalBytes": 67531,
-    "previousJournalBytes": 65914,
-    "totalBytes": 31238444,
-    "updatedAt": "2026-11-19T22:13:08.417Z"
+    "mediaBytes": 31744387,
+    "journalBytes": 68300,
+    "previousJournalBytes": 67531,
+    "totalBytes": 31880218,
+    "updatedAt": "2026-11-19T22:15:34.960Z"
   }
 }
