@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "0caa64db-6c89-440a-b405-691d6b66644f",
+  "revision": "59378408-fb91-4e9d-80f9-cdaa34fd8531",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:14:56.527Z",
+  "updatedAt": "2026-11-19T09:15:27.583Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -163,7 +163,7 @@
       "date": "2026-09-10",
       "time": "17:10",
       "carer": "Daddy",
-      "narrative": "",
+      "narrative": "This is the bello I remember.",
       "title": "Lying on the Floor Sleeping (Date Unknown)",
       "photos": [
         {
@@ -215,9 +215,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2558833,
-    "journalBytes": 6798,
-    "previousJournalBytes": 6690,
-    "totalBytes": 2572321,
-    "updatedAt": "2026-11-19T09:14:56.529Z"
+    "journalBytes": 6827,
+    "previousJournalBytes": 6798,
+    "totalBytes": 2572458,
+    "updatedAt": "2026-11-19T09:15:27.585Z"
   }
 }
