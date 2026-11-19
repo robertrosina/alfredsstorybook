@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "7f5680f3-9827-4538-907f-e59b1da1726e",
+  "revision": "79b097b2-8199-43d2-b76d-471cc8d2d38a",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:15:34.960Z",
+  "updatedAt": "2026-11-19T22:17:28.181Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -14,6 +14,7 @@
       "carer": "Daddy",
       "narrative": "When you came into the world there was a profound peace that came over the delivery room. It stayed there, as we met you, and held you for the first time. It was as if divinity itself had decended.\n\nIn that moment I learned that the true nature of existence was that everything is okay, it was not scary like I thought until then. I wondered if the nurses and doctors were aware of it! It was like a miracle, bello.\n\nThat was the most beautiful moment of my life. That is your incredible spirit.",
       "title": "Alfred's birth day",
+      "section": "journal",
       "photos": [
         {
           "file": "2026/05/08/2026-05-08_1108_203b8cd8-8b0f-474f-86ca-97c73b93ffed.jpg",
@@ -32,13 +33,6 @@
         {
           "file": "2026/05/08/2026-05-08_1108_f3cd7164-0f22-457f-a30e-5508ea6c93e0.jpg",
           "originalName": "20260510_121517.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": ""
-        },
-        {
-          "file": "2026/05/08/2026-05-08_1108_e14398bc-2162-48bd-8923-e60aceeb80d4.jpg",
-          "originalName": "20260516_104109.jpg",
           "type": "image/jpeg",
           "favourite": false,
           "caption": ""
@@ -1596,10 +1590,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 31744387,
-    "journalBytes": 68300,
-    "previousJournalBytes": 67531,
-    "totalBytes": 31880218,
-    "updatedAt": "2026-11-19T22:15:34.960Z"
+    "mediaBytes": 31618416,
+    "journalBytes": 68079,
+    "previousJournalBytes": 0,
+    "totalBytes": 31686495,
+    "updatedAt": "2026-11-19T22:17:28.210Z"
   }
 }
