@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "2726b407-97ee-4940-be92-50c43db40224",
+  "revision": "031d1100-8fe6-4d3a-b3ff-7ab1dba9a32b",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:19:33.228Z",
+  "updatedAt": "2026-11-19T22:19:59.892Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1619,12 +1619,19 @@
       "date": "2026-05-19",
       "time": "09:18",
       "carer": "Daddy",
-      "narrative": "",
+      "narrative": "I love watching you sleep, bello.",
       "title": "Growing up so fast - not even 2 weeks old",
       "photos": [
         {
           "file": "2026/05/19/2026-05-19_0918_b01cb561-55c4-4665-9225-873def974258.jpg",
           "originalName": "20260519_082751.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/05/19/2026-05-19_0918_b39a6f20-3b5b-4b1f-ad8f-1949a50a4102.jpg",
+          "originalName": "20260520_064632.jpg",
           "type": "image/jpeg",
           "favourite": false,
           "caption": ""
@@ -1651,10 +1658,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32393512,
-    "journalBytes": 69901,
-    "previousJournalBytes": 69360,
-    "totalBytes": 32532773,
-    "updatedAt": "2026-11-19T22:19:33.229Z"
+    "mediaBytes": 32488337,
+    "journalBytes": 70179,
+    "previousJournalBytes": 69901,
+    "totalBytes": 32628417,
+    "updatedAt": "2026-11-19T22:19:59.892Z"
   }
 }
