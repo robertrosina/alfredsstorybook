@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "18beea69-e24d-48d0-92ac-a98485e27d8c",
+  "revision": "b37303f7-fa1c-42a6-814a-8ade6d477d72",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:18:14.741Z",
+  "updatedAt": "2026-11-19T09:20:39.691Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -152,7 +152,7 @@
       "date": "2026-11-19",
       "time": "17:06",
       "carer": "Daddy",
-      "narrative": "",
+      "narrative": "\"I'm coming hello!\" I say that all the time throughout the day. One day my love we will be back together, you in my arms, forever.",
       "title": "I love my bello.",
       "photos": []
     },
@@ -215,9 +215,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2558833,
-    "journalBytes": 7130,
-    "previousJournalBytes": 6920,
-    "totalBytes": 2572883,
-    "updatedAt": "2026-11-19T09:18:14.742Z"
+    "journalBytes": 7262,
+    "previousJournalBytes": 7130,
+    "totalBytes": 2573225,
+    "updatedAt": "2026-11-19T09:20:39.693Z"
   }
 }
