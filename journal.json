@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "e3217132-2d69-47b8-be53-bf198a280279",
+  "revision": "9c395058-d214-45a8-9bad-5ac8d0219de8",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:38:25.468Z",
+  "updatedAt": "2026-11-19T09:39:03.241Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -12,7 +12,7 @@
       "date": "2026-05-08",
       "time": "11:08",
       "carer": "Daddy",
-      "narrative": "When you came into the world there was a profound peace that came over the delivery room. It stayed there, as we met you, and held you for the first time. It was as if divinity itself had decended. In that moment I leaned that the true nature of existence was that everything is okay, it was not scary like I thought until then. I wondered if the nurses and doctors were aware of it! It was like a miracle, bello. That was the most beautiful moment of my life. That is your incredible spirit.",
+      "narrative": "When you came into the world there was a profound peace that came over the delivery room. It stayed there, as we met you, and held you for the first time. It was as if divinity itself had decended. In that moment I learned that the true nature of existence was that everything is okay, it was not scary like I thought until then. I wondered if the nurses and doctors were aware of it! It was like a miracle, bello. That was the most beautiful moment of my life. That is your incredible spirit.",
       "title": "Alfred's birth day",
       "photos": [
         {
@@ -234,9 +234,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2686720,
-    "journalBytes": 8511,
-    "previousJournalBytes": 8230,
-    "totalBytes": 2703461,
-    "updatedAt": "2026-11-19T09:38:25.470Z"
+    "journalBytes": 8512,
+    "previousJournalBytes": 8511,
+    "totalBytes": 2703743,
+    "updatedAt": "2026-11-19T09:39:03.243Z"
   }
 }
