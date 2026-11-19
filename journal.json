@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "bd401f81-319a-4b29-a975-9acf7edd3292",
+  "revision": "18beea69-e24d-48d0-92ac-a98485e27d8c",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:16:37.819Z",
+  "updatedAt": "2026-11-19T09:18:14.741Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -11,8 +11,8 @@
       "detail": "",
       "date": "2026-05-08",
       "time": "11:08",
-      "carer": "Robert",
-      "narrative": "",
+      "carer": "Daddy",
+      "narrative": "When you came into the world there was a profound peace that came over the delivery room. It was as if divinity itself had decended. That was the most beautiful moment of my life. That is your incredible spirit.",
       "title": "Alfred's birth day",
       "photos": [
         {
@@ -215,9 +215,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2558833,
-    "journalBytes": 6920,
-    "previousJournalBytes": 6827,
-    "totalBytes": 2572580,
-    "updatedAt": "2026-11-19T09:16:37.821Z"
+    "journalBytes": 7130,
+    "previousJournalBytes": 6920,
+    "totalBytes": 2572883,
+    "updatedAt": "2026-11-19T09:18:14.742Z"
   }
 }
