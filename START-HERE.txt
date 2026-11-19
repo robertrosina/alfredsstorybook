@@ -1,27 +1,23 @@
-ALFRED'S STORYBOOK — CHOOSE A USER AND EDIT
+ALFRED'S STORYBOOK — REMEMBER ME ON THIS COMPUTER
 
-Upload index.html and site-config.js from this archive to the repository root.
-Keep GitHub Pages set to main / (root). Wait for deployment and hard refresh.
+1. Upload index.html and site-config.js to the repository root.
+   The empty site-config.js replaces the earlier shared-token configuration.
+2. Wait for GitHub Pages deployment, then refresh with Ctrl+Shift+R.
+3. Open Connect GitHub, enter your repository token, keep
+   Remember me on this computer checked, and connect.
 
-ONE-TIME OWNER SETUP
-1. Open Site settings on the website.
-2. Enter a NEW fine-grained token restricted to this repository, with Contents
-   read/write access. Revoke the token previously shared in chat.
-3. Click Connect repository.
-4. Reopen Site settings and choose Download shared settings.
-5. Upload the downloaded site-config.js to the repository root, replacing
-   the blank copy. Wait for Pages to redeploy.
+This browser will reconnect automatically after you leave and return.
+Disconnect removes the saved token from this browser. Uncheck Remember me
+before connecting to use the current visit only. Reconnecting while unchecked
+removes any previously saved connection.
 
-Now everyone visiting the site chooses a name and can edit and upload.
-Returning visitors choose a name again; the repository reconnects automatically.
-No Cloudflare, backend or browser token remembering is required.
+The token is saved in this browser's IndexedDB storage. It is not written to
+site-config.js, journal.json, backups or the GitHub repository. Browser data
+clearing, private browsing, token expiration or revocation requires reconnection.
+Use a computer you trust. Other browsers/devices need their own connection.
 
-The user selector records the author of new entries. It is not authentication.
-Anyone can select any name, and anyone who can read the published site/config
-can use the shared token's permissions, including outside this interface.
-Keep the token limited to this one repository. Replace site-config.js when
-the token expires. Do not use this arrangement for restricted private access.
+No token is included in this archive. If you published a token in an earlier
+site-config.js, revoke it and use a replacement; older commits may retain it.
 
-No token is included in this download. Existing journal.json and photo files
-are excluded, so this update does not overwrite your existing journal.
-Photos continue saving to dated subfolders under /media.
+Existing journal.json and photographs are excluded from this update.
+No Cloudflare deployment or shared-token configuration is used.
