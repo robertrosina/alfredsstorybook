@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "de57ea22-500b-4af5-8580-428f8baea246",
+  "revision": "355c7b0b-e82e-4d9d-85e2-eaf91f1950dc",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:21:53.549Z",
+  "updatedAt": "2026-11-19T22:22:43.545Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1650,11 +1650,20 @@
       "title": "Time to go home!",
       "photos": [
         {
-          "file": "2026/05/10/2026-05-10_0920_221dcccf-16e7-4614-a27f-efb30c035d16.jpg",
-          "originalName": "Screenshot_20260608_102246_One UI Home.jpg",
+          "file": "2026/05/10/2026-05-10_0920_b7feb064-c50b-4775-b4aa-db53361c3fbe.jpg",
+          "originalName": "Screenshot_20260608_102246_One UI Home-cropped.jpg",
           "type": "image/jpeg",
           "favourite": false,
-          "caption": ""
+          "caption": "",
+          "cropOriginalFile": "2026/05/10/2026-05-10_0920_221dcccf-16e7-4614-a27f-efb30c035d16.jpg",
+          "cropOriginalDirectory": "media",
+          "cropOriginalName": "Screenshot_20260608_102246_One UI Home.jpg",
+          "crop": {
+            "x": 0,
+            "y": 67.2,
+            "width": 720,
+            "height": 1456
+          }
         }
       ]
     }
@@ -1678,10 +1687,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 32714772,
-    "journalBytes": 70831,
-    "previousJournalBytes": 70179,
-    "totalBytes": 32855782,
-    "updatedAt": "2026-11-19T22:21:53.550Z"
+    "mediaBytes": 32945121,
+    "journalBytes": 71189,
+    "previousJournalBytes": 70831,
+    "totalBytes": 33087141,
+    "updatedAt": "2026-11-19T22:22:43.546Z"
   }
 }
