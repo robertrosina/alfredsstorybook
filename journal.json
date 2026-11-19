@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "d7d798c4-4f30-4370-9e82-f60ddb0267f0",
+  "revision": "70ffc5b4-c338-450c-b3d9-9f3e777c862e",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:06:25.524Z",
+  "updatedAt": "2026-11-19T13:08:11.378Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -632,8 +632,8 @@
       "date": "2026-10-21",
       "time": "12:20",
       "carer": "Daddy",
-      "title": "October 2026",
-      "narrative": "Family photographs, outings and saved images from October. Some dates come from filenames or screenshot timestamps and need confirmation. Individual dates are retained with each image.",
+      "title": "Alfred around the home!",
+      "narrative": "",
       "photos": [
         {
           "file": "2026/10/21/2026-10-21_122012_26a7f44d-367a-5a01-9e85-1460124140d0.jpg",
@@ -1526,9 +1526,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 30012814,
-    "journalBytes": 66056,
-    "previousJournalBytes": 66220,
-    "totalBytes": 30145090,
-    "updatedAt": "2026-11-19T13:06:25.525Z"
+    "journalBytes": 65883,
+    "previousJournalBytes": 66056,
+    "totalBytes": 30144753,
+    "updatedAt": "2026-11-19T13:08:11.379Z"
   }
 }
