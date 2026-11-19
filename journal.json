@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "c4c3d3de-0e84-46a3-9eda-810921d7a871",
+  "revision": "8c0106d2-14d8-40f2-8988-e66f9123bb5c",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T13:00:55.543Z",
+  "updatedAt": "2026-11-19T13:01:12.420Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1486,7 +1486,7 @@
       "date": "2026-03-19",
       "time": "23:59",
       "carer": "Daddy",
-      "narrative": "",
+      "narrative": "Woah! We thought you were going to be... well, like this!! Your face was all squished and it was a funny angle, but it does kind of look like you! Love you bello!",
       "title": "Ultrasound monster!",
       "photos": [
         {
@@ -1519,9 +1519,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 29943135,
-    "journalBytes": 65776,
-    "previousJournalBytes": 65264,
-    "totalBytes": 30074175,
-    "updatedAt": "2026-11-19T13:00:55.544Z"
+    "journalBytes": 65938,
+    "previousJournalBytes": 65776,
+    "totalBytes": 30074849,
+    "updatedAt": "2026-11-19T13:01:12.421Z"
   }
 }
