@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "c4002f89-b660-4117-8fad-b26311f5fe74",
+  "revision": "fc24a285-e530-40a7-b7e3-bba632915cec",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T04:25:42.773Z",
+  "updatedAt": "2026-11-19T05:33:05.500Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -135,7 +135,15 @@
       "narrative": "Today I made this site website for you, my bello. So you can see how you've grown, and how much we love you.",
       "title": "Website Uploaded",
       "loved": false,
-      "photos": []
+      "photos": [
+        {
+          "file": "2026/11/19/2026-11-19_1522_016a1a77-82ce-4cc0-a95b-68ea53a5ed02.jpg",
+          "originalName": "Website.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -157,10 +165,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 2148542,
-    "journalBytes": 5164,
-    "previousJournalBytes": 5165,
-    "totalBytes": 2158871,
-    "updatedAt": "2026-11-19T04:25:42.774Z"
+    "mediaBytes": 2152679,
+    "journalBytes": 5407,
+    "previousJournalBytes": 5164,
+    "totalBytes": 2163250,
+    "updatedAt": "2026-11-19T05:33:05.500Z"
   }
 }
