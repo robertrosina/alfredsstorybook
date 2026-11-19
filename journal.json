@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "1a3e939c-1102-436a-bade-7a1681cdf020",
+  "revision": "eb6b2ed3-4d71-462f-8139-3b77b947c87f",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:44:41.429Z",
+  "updatedAt": "2026-11-19T22:46:13.025Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1871,6 +1871,26 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795128372010,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-07-08",
+      "time": "09:45",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Looking cool at 2 months!",
+      "photos": [
+        {
+          "file": "2026/07/08/2026-07-08_0945_1fcba8ab-b268-4e4c-98ca-2f8ee93c02ec.jpg",
+          "originalName": "_DSC5691.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -1892,10 +1912,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 37286544,
-    "journalBytes": 77487,
-    "previousJournalBytes": 76718,
-    "totalBytes": 37440749,
-    "updatedAt": "2026-11-19T22:44:41.430Z"
+    "mediaBytes": 37441576,
+    "journalBytes": 78005,
+    "previousJournalBytes": 77487,
+    "totalBytes": 37597068,
+    "updatedAt": "2026-11-19T22:46:13.025Z"
   }
 }
