@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "ff14b4b4-5e6b-4d78-b3e2-f97a6b93d540",
+  "revision": "46b012fb-a014-4ef8-be36-c2fd4d8e6827",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T04:12:37.946Z",
+  "updatedAt": "2026-11-19T04:15:17.943Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -16,25 +16,25 @@
       "title": "Alfred's birth day",
       "photos": [
         {
-          "file": "2026/05/08/2026-05-08_1108_1965e49f-041b-4c8a-b871-d8734acff2d1.jpg",
+          "file": "2026/05/08/2026-05-08_1108_203b8cd8-8b0f-474f-86ca-97c73b93ffed.jpg",
           "originalName": "IMG-20260509-WA0005.jpg",
           "type": "image/jpeg",
           "caption": ""
         },
         {
-          "file": "2026/05/08/2026-05-08_1108_9247c618-306e-48b7-96d4-839249f66df8.jpg",
+          "file": "2026/05/08/2026-05-08_1108_466f4c6a-9cd2-4fc1-86aa-cfe545190462.jpg",
           "originalName": "20260510_121513.jpg",
           "type": "image/jpeg",
           "caption": ""
         },
         {
-          "file": "2026/05/08/2026-05-08_1108_fcd3fe71-b809-4a00-a17b-78ac6ec71d99.jpg",
+          "file": "2026/05/08/2026-05-08_1108_f3cd7164-0f22-457f-a30e-5508ea6c93e0.jpg",
           "originalName": "20260510_121517.jpg",
           "type": "image/jpeg",
           "caption": ""
         },
         {
-          "file": "2026/05/08/2026-05-08_1108_6c8dac13-5a32-4267-981d-13be4b80dd30.jpg",
+          "file": "2026/05/08/2026-05-08_1108_e14398bc-2162-48bd-8923-e60aceeb80d4.jpg",
           "originalName": "20260516_104109.jpg",
           "type": "image/jpeg",
           "caption": ""
@@ -133,10 +133,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 27616485,
-    "journalBytes": 4439,
-    "previousJournalBytes": 2834,
-    "totalBytes": 27623758,
-    "updatedAt": "2026-11-19T04:12:37.947Z"
+    "mediaBytes": 2148542,
+    "journalBytes": 4434,
+    "previousJournalBytes": 0,
+    "totalBytes": 2152976,
+    "updatedAt": "2026-11-19T04:15:17.969Z"
   }
 }
