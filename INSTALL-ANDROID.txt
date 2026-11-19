@@ -1,0 +1,71 @@
+MY BELLO ALFRED — ANDROID SHARE APP
+
+UPDATE YOUR EXISTING SITE
+1. Extract this ZIP.
+2. Upload these five files together to the ROOT of your existing GitHub
+   Storybook repository, beside journal.json and media/:
+     index.html
+     manifest.webmanifest
+     service-worker.js
+     app-icon-192.png
+     app-icon-512.png
+3. Keep the filenames exactly as shown. Commit them together and wait for
+   the GitHub Pages deployment to finish.
+4. Your journal.json and media/ do not need replacing. They are not in this
+   update ZIP, and your saved posts and photos remain in their repository.
+
+INSTALL ON YOUR ANDROID PHONE
+1. Open https://mybelloalfred.com/ in Google Chrome and refresh.
+2. Open the site's Menu and choose Install app. If Chrome's prompt does
+   not appear, use Chrome's three-dot menu > Add to Home screen > Install.
+   Choose the installed app option when offered; a plain shortcut may not
+   register as a photo-sharing destination.
+3. Open My Bello Alfred from its new home-screen icon once, while online.
+4. Connect GitHub if prompted and leave Remember me enabled on your phone.
+   An existing connection in the same Chrome profile may reconnect already.
+
+SHARE PHOTOS INTO A POST
+1. In your Gallery, Google Photos or WhatsApp, select the photos and use
+   Android's external Share menu.
+2. Choose My Bello Alfred. WhatsApp's Forward-to-contact action is separate
+   from Android's external Share action.
+3. A new post opens with those photos attached. Add your title, words and
+   date, then Save entry. You can choose Future stories in the editor too.
+4. Photos are optimized with the site's existing compression before saving.
+   Videos keep the site's existing MP4/WebM handling.
+
+PENDING PHOTOS AND DRAFTS
+Incoming shares are held in this phone's browser storage until the post
+saves successfully. A shared-files banner lets you continue later.
+GitHub connection/network failures retain the inbox copy and draft.
+Unrelated unfinished drafts are kept separately. Nothing is posted simply
+by sharing: the Save entry action publishes the post.
+Clearing browser/site data removes local inbox copies, drafts and remembered
+credentials. Original pictures in your phone gallery are separate.
+The app shell can open offline; GitHub saving still requires a connection.
+Photos: JPEG/PNG/WebP, up to 15 MB each. Videos: MP4/WebM, up to 50 MB each.
+Unsupported files are reported. Post dates should be checked in the editor;
+file sharing does not guarantee preservation of the original capture date.
+
+IF THE APP IS MISSING FROM THE SHARE MENU
+Confirm that all five runtime files are live at the same site address, open
+that address in Chrome while online, and install the actual app. Open it
+once, then retry the external Share action. Android/browser/app support can
+vary. This feature targets installed Chrome web apps on Android; adding an
+iPhone home-screen icon does not provide this Android share-target feature.
+
+TECHNICAL NOTES
+This remains a GitHub Pages website with an installable web-app manifest
+and service worker. No separate server or app-store release is required.
+The service worker accepts the photo-share POST locally and stores incoming
+files in IndexedDB. It caches only the application shell and icons. GitHub
+API responses, journal.json and photos are not added to that offline cache.
+Repository tokens stay in the existing browser connection store, not in the
+worker, manifest or ZIP. Repository changes still use the site's GitHub token
+and existing revision/conflict checks.
+
+VALIDATION
+Automated checks cover real multipart photo/video requests, file integrity,
+relative paths, rejected files, storage failure, draft separation, connection
+handoff and successful/failed GitHub saves. Installation and sharing have
+not been tested on a physical Android phone in this workspace.
