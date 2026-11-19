@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "414fd3be-b923-43b7-818d-427b3214c7f8",
+  "revision": "offline-albums-5908e4bc-69c7-4abe-8c8b-93c553cce065",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:52:13.824Z",
+  "updatedAt": "2026-11-19T11:54:51.310173Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -223,6 +223,1314 @@
       "narrative": "On the night before you were born, there were two omens, and there was one omen when you were born: three in total.\n\nFirst, there was a wolf that we saw. Okay, it was a husky. Still, it was a sign.\n\nNext, I found a two dollar coin on the street. The highest possible coin, the highest possible luck.\n\nFinally, one of the midwives was called Asha. She didn't know the divine meaning of her name, but I explained it to her. It means truth, bello. Divine, ultimate truth.",
       "title": "Three omens",
       "photos": []
+    },
+    {
+      "id": 26371402808237,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-05-15",
+      "time": "12:00",
+      "carer": "Daddy",
+      "title": "May–July 2026",
+      "narrative": "Some dates come from filenames or screenshot timestamps and need confirmation. Individual dates are retained with each image.",
+      "photos": [
+        {
+          "file": "2026/05/15/2026-05-15_120000_6b46a6b3-c9ea-5cf2-abc6-4853b4ed2a8e.jpg",
+          "originalName": "IMG-20260515-WA0000.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred being held in his early weeks.",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-05-15T12:00:00"
+        },
+        {
+          "file": "2026/05/15/2026-05-15_120000_83e93502-3800-5e40-9067-915cf09f55e6.jpg",
+          "originalName": "IMG-20260515-WA0001.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred being held in his early weeks.",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-05-15T12:00:00"
+        },
+        {
+          "file": "2026/05/18/2026-05-18_120000_1ede718b-b1b8-58d3-a6b5-18440289220b.jpg",
+          "originalName": "IMG-20260518-WA0000.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred resting in a family member’s arms.",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-05-18T12:00:00"
+        },
+        {
+          "file": "2026/06/08/2026-06-08_050341_4caf72b4-f0c0-5634-8096-e5661ca74122.jpg",
+          "originalName": "IMG_20260608_050341.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred being held in his white sleepsuit.",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-06-08T05:03:41"
+        },
+        {
+          "file": "2026/06/20/2026-06-20_112830_1d1dc037-9b42-5650-a9cb-00d143a91756.jpg",
+          "originalName": "Screenshot_20260620-112830.WhatsApp.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-06-20T11:28:30"
+        },
+        {
+          "file": "2026/06/20/2026-06-20_113007_6954aab0-55b4-5332-b95d-bd4e8f2bc34d.jpg",
+          "originalName": "Screenshot_20260620-113007.#Gallery.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-06-20T11:30:07"
+        },
+        {
+          "file": "2026/07/06/2026-07-06_021424_a6983f33-9d21-5346-bf41-2893b7b245fa.jpg",
+          "originalName": "IMG_20260706_021424.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his white sleepsuit.",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-07-06T02:14:24"
+        },
+        {
+          "file": "2026/07/22/2026-07-22_120000_e9a9feda-b480-56d6-9c73-6fde9aadeaba.jpg",
+          "originalName": "IMG-20260722-WA0005.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "A family photograph with Alfred.",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-07-22T12:00:00"
+        }
+      ]
+    },
+    {
+      "id": 205571751361529,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-18",
+      "time": "16:16",
+      "carer": "Daddy",
+      "title": "August 2026",
+      "narrative": "Family photographs outside Event Cinemas.",
+      "photos": [
+        {
+          "file": "2026/08/18/2026-08-18_161650_82153c34-6c52-577a-a83d-e05d101d6bc3.jpg",
+          "originalName": "IMG_20260818_161647404_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family outside Event Cinemas.",
+          "dateTaken": "2026-08-18T16:16:50",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161651_54b61419-e9ad-5670-bfbc-b051979249aa.jpg",
+          "originalName": "IMG_20260818_161650301.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:16:51"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161655_f309752b-f11e-5257-8bcf-d05f38d609a1.jpg",
+          "originalName": "IMG_20260818_161654574.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:16:55"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161656_eaa30d40-4b04-5de1-8304-61897c55e7d3.jpg",
+          "originalName": "IMG_20260818_161655629.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:16:56"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161657_48da884c-e7a6-5ed6-b6c7-2b54ed1388f8.jpg",
+          "originalName": "IMG_20260818_161657071.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:16:57"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161658_423e4705-7977-5790-a0c3-893a072c8cdb.jpg",
+          "originalName": "IMG_20260818_161658001.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:16:58"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161659_249ae613-8a5c-5139-8d6a-b099cde80025.jpg",
+          "originalName": "IMG_20260818_161658907.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:16:59"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161700_80ca3f6f-e9b4-5558-ab16-0a6d28a2e7a5.jpg",
+          "originalName": "IMG_20260818_161700046.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:17:00"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161705_aaffb7c3-d517-5656-8dcc-a403c7f0bfcb.jpg",
+          "originalName": "IMG_20260818_161704509.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "A closer look at Alfred in his green-and-white stripes.",
+          "dateTaken": "2026-08-18T16:17:05",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161726_9363786c-3d48-54cf-b1cd-cb742c290fd5.jpg",
+          "originalName": "IMG_20260818_161726237.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:17:26"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161729_8697138a-b148-5c21-b8e6-670d4f6e62f4.jpg",
+          "originalName": "IMG_20260818_161728385.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:17:29"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161730_26d27e13-98d3-5aea-92f9-9fda72c78514.jpg",
+          "originalName": "IMG_20260818_161729506.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:17:30"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161731_3947beb5-08df-5e46-8a59-1dc2f0ab463a.jpg",
+          "originalName": "IMG_20260818_161730448.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:17:31"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161732_6d083f4d-d41f-5397-baf6-526904345d05.jpg",
+          "originalName": "IMG_20260818_161731533.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:17:32"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161758_08e044da-9e4b-58a8-9d0f-6691a83f045e.jpg",
+          "originalName": "IMG_20260818_161757619.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:17:58"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161801_4c90745f-9206-50b6-a7f6-342df94e1082.jpg",
+          "originalName": "IMG_20260818_161759518_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:01"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161803_abd31fee-5ca8-54d7-a9d5-e43628d843d7.jpg",
+          "originalName": "IMG_20260818_161800828_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:03"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161804_cb97bd42-f96d-5a17-8966-bd68df682daa.jpg",
+          "originalName": "IMG_20260818_161801831_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:04"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161805_d0a3b17e-cc5a-5216-910d-17b329c11540.jpg",
+          "originalName": "IMG_20260818_161804853_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:05"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161810_94e5fa04-d57a-58a7-970c-5b571c3d214a.jpg",
+          "originalName": "IMG_20260818_161806678_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:10"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161833_42947d64-aa38-5b91-be09-66b6fb86ae2c.jpg",
+          "originalName": "IMG_20260818_161829387_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:33"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161834_14567fbf-927f-5725-bb4f-c0ff37deee3c.jpg",
+          "originalName": "IMG_20260818_161830525_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:34"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161835_b31694dc-6be3-59a8-9ff6-33b430295ddd.jpg",
+          "originalName": "IMG_20260818_161831240_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:35"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161836_a1705b42-33a0-5137-ae5c-edcdec4ce98a.jpg",
+          "originalName": "IMG_20260818_161833664_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:36"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161837_f3c0e280-9079-5405-bb41-b7417e98334b.jpg",
+          "originalName": "IMG_20260818_161835640_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:37"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161840_4966e4ab-cbd0-56d4-8d0d-f4fa2921e879.jpg",
+          "originalName": "IMG_20260818_161838221_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:40"
+        },
+        {
+          "file": "2026/08/18/2026-08-18_161842_f5dcf742-0b48-5d42-b8f7-068a1f030834.jpg",
+          "originalName": "IMG_20260818_161839019_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs with Alfred outside Event Cinemas.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-08-18T16:18:42"
+        }
+      ]
+    },
+    {
+      "id": 275353600308392,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-10-21",
+      "time": "12:20",
+      "carer": "Daddy",
+      "title": "October 2026",
+      "narrative": "Family photographs, outings and saved images from October. Some dates come from filenames or screenshot timestamps and need confirmation. Individual dates are retained with each image.",
+      "photos": [
+        {
+          "file": "2026/10/21/2026-10-21_122012_26a7f44d-367a-5a01-9e85-1460124140d0.jpg",
+          "originalName": "1000139712.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:20:12"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122012_2b6a0db5-edfb-5596-9f3b-e6060c012c52.jpg",
+          "originalName": "IMG_20261021_122011321.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with family on the sofa.",
+          "dateTaken": "2026-10-21T12:20:12",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122013_73c05eb6-ff28-52e4-8ec8-cb482429f8a0.jpg",
+          "originalName": "1000139713.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:20:13"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122013_a06805d5-ed03-5663-8009-e9e9c87c7cee.jpg",
+          "originalName": "IMG_20261021_122012976.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:20:13"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122149_a127117b-5cbf-548d-acf6-0638be47aaf7.jpg",
+          "originalName": "IMG_20261021_122148163.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:21:49"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122158_23aee6fb-cf6b-5142-aefc-8e48a96e1868.jpg",
+          "originalName": ".trashed-1796050135-IMG_20261021_122157202_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:21:58"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122201_468dd013-67b5-5cb1-99b2-2bd7cbc618e3.jpg",
+          "originalName": ".trashed-1796050131-IMG_20261021_122200389.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:22:01"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122208_517ec58b-4ac0-50fa-8f3b-21403b417d4e.jpg",
+          "originalName": ".trashed-1795603497-IMG_20261021_122207044.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:22:08"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122209_8297af83-20b2-5bb8-bfe4-34c060f6a589.jpg",
+          "originalName": "IMG_20261021_122208397.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:22:09"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122352_ab1e0e83-92d8-5671-a84b-635edcd76713.jpg",
+          "originalName": ".trashed-1796050127-IMG_20261021_122348485_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:23:52"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122354_567ac769-07f8-544f-a0bb-3c49c08cdf51.jpg",
+          "originalName": "1000139720.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:23:54"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122354_7c30a6a8-7ed8-5d86-939f-ec3d3ae6ccc7.jpg",
+          "originalName": "IMG_20261021_122352644_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:23:54"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122356_d7c9e6ea-fb1e-5e18-8c77-91d9afa5ed71.jpg",
+          "originalName": "1000139721.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:23:56"
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122356_7a237dcf-2f66-5a96-b256-0490268302fc.jpg",
+          "originalName": "IMG_20261021_122354788_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred stretching out an arm while being held on the sofa.",
+          "dateTaken": "2026-10-21T12:23:56",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/21/2026-10-21_122400_d15a8712-e039-5614-ae9a-61b90d5de8a8.jpg",
+          "originalName": "IMG_20261021_122358472_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred with family on the sofa.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-21T12:24:00"
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092528_e1ad4c8d-d9e1-5439-85bc-6f98c369f61d.jpg",
+          "originalName": "IMG_20261023_092525971_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-23T09:25:28"
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092704_d835e6c1-f411-5641-a339-9ef3c697ff9a.jpg",
+          "originalName": ".trashed-1796049981-IMG_20261023_092703148.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-23T09:27:04"
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092711_95701c28-ed2a-5021-aa57-d0f3425f2517.jpg",
+          "originalName": ".trashed-1796049975-IMG_20261023_092711040.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-23T09:27:11"
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092730_9a2e4af5-59e7-517e-b7e7-11d1be9dc57d.jpg",
+          "originalName": ".trashed-1795320562-IMG_20261023_092727866.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-23T09:27:30"
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092747_b8e27cae-7427-5bdc-b900-74bd7ce9545a.jpg",
+          "originalName": "IMG_20261023_092744431.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-23T09:27:47"
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092758_6a86cd96-daf1-5147-ac8e-b4343d18c935.jpg",
+          "originalName": "IMG_20261023_092757793.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-23T09:27:58"
+        },
+        {
+          "file": "2026/10/23/2026-10-23_092803_692af9fe-c11d-53fd-a6b2-97380c5c2193.jpg",
+          "originalName": ".trashed-1796049960-IMG_20261023_092802481.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his striped sleepsuit.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-23T09:28:03"
+        },
+        {
+          "file": "2026/10/24/2026-10-24_120000_de6f9a12-d21c-5d6e-b3df-f493ddb0af62.jpg",
+          "originalName": "IMG-20261024-WA0006.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a family member by the window.",
+          "dateSource": "Filename date; capture date unconfirmed",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-10-24T12:00:00"
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162342_a8db51ea-bc8c-5658-b9c8-e4f23ee98f26.jpg",
+          "originalName": "IMG_20261024_162337751_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together.",
+          "dateTaken": "2026-10-24T16:23:42",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162343_2c3e4a33-66f0-57f7-822a-4ae5a1baeb67.jpg",
+          "originalName": "IMG_20261024_162341306_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together by the window.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-24T16:23:43"
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162350_81d10eab-177b-5e96-af12-55f20f711cef.jpg",
+          "originalName": "IMG_20261024_162347940_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together by the window.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-24T16:23:50"
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162357_ba2ed1d5-a7cf-5043-83c2-43da4c8da211.jpg",
+          "originalName": "IMG_20261024_162355365_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Looking at a picture book together by the window.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-24T16:23:57"
+        },
+        {
+          "file": "2026/10/24/2026-10-24_162429_30beb4fd-e310-5490-a257-747eb67a522e.jpg",
+          "originalName": "IMG_20261024_162425579_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred beside the open book, with his yellow toy in front of him.",
+          "dateTaken": "2026-10-24T16:24:29",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/10/24/2026-10-24_173830_3e4ffa5e-4175-5209-8e33-8ea897c84405.jpg",
+          "originalName": ".trashed-1796049748-IMG_20261024_173829593.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred being held at home.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-24T17:38:30"
+        },
+        {
+          "file": "2026/10/24/2026-10-24_173833_9d3ec0e0-f836-5dd5-945d-dfc98f5471d6.jpg",
+          "originalName": "IMG_20261024_173832663.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred being held at home.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-24T17:38:33"
+        },
+        {
+          "file": "2026/10/24/2026-10-24_173838_41d86204-c1ed-56f9-847e-e55b13c7570d.jpg",
+          "originalName": "IMG_20261024_173837736.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred being held at home.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-24T17:38:38"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_110836_9cfbcaa8-5243-5709-8676-03650d57037c.jpg",
+          "originalName": "IMG_20261025_110835458.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred resting in his pram.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T11:08:36"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_123806_dbbefcb4-d04a-5642-bb1f-10a425ad80eb.jpg",
+          "originalName": ".trashed-1796049725-IMG_20261025_123801022_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:38:06"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125235_04d4ca45-3d6b-5a3e-b4d8-cde9756d7827.jpg",
+          "originalName": ".trashed-1796049721-IMG_20261025_125232629_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:35"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125240_902cbf59-df29-5397-826f-bce461e94409.jpg",
+          "originalName": "IMG_20261025_125235308_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:40"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125242_24bd157d-dcc3-5ccb-8732-ea7d8225ad8d.jpg",
+          "originalName": ".trashed-1796049715-IMG_20261025_125237327_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:42"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125242_fcfb5ae9-fa5d-5046-92b2-0667f7064212.jpg",
+          "originalName": "IMG_20261025_125238278_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:42"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125248_4fb41035-14f0-5679-8d13-9d163a17d070.jpg",
+          "originalName": "IMG_20261025_125243530_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:48"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125252_97b9c8cf-2ca8-5dfe-9aa9-bdfb7a71fb41.jpg",
+          "originalName": ".trashed-1796049667-IMG_20261025_125245095_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:52"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125255_240fe618-198c-5c4b-93f5-afd3ae7881eb.jpg",
+          "originalName": ".trashed-1796049649-IMG_20261025_125246127_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:55"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125257_e84a7969-3a27-561b-a2b9-f74c280ffa31.jpg",
+          "originalName": "IMG_20261025_125249073_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:57"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125258_ff05cd10-096a-57b2-af00-7645aaa90996.jpg",
+          "originalName": "IMG_20261025_125252727_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:52:58"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125309_71bc5275-646f-5c27-bb30-20d8f33738ef.jpg",
+          "originalName": ".trashed-1795486789-IMG_20261025_125308957.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:09"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125318_5cfd736d-ece7-5387-9d1b-c1096e25ff1a.jpg",
+          "originalName": "IMG_20261025_125313165_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:18"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125322_fad50729-db28-5321-b0aa-be7efe157114.jpg",
+          "originalName": "IMG_20261025_125314488_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:22"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125327_9ffd2b0f-22cb-58ba-9ae1-0eb0c8749785.jpg",
+          "originalName": "IMG_20261025_125317777_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:27"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125331_2b81c41e-b26f-5acc-8e0c-76d164a303b7.jpg",
+          "originalName": "IMG_20261025_125319815_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:31"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125333_37514c4f-ece1-5605-820b-81664d5aadcb.jpg",
+          "originalName": "IMG_20261025_125324128_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:33"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125335_2bd460d0-9832-5aeb-8664-7c770eec5ce0.jpg",
+          "originalName": "IMG_20261025_125327749_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:35"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125338_a409810b-64bb-5e57-89cc-57fef3b6b110.jpg",
+          "originalName": "IMG_20261025_125332735_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:38"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_125341_d04a526e-d75e-534f-ae8a-c8d1f9d3b5d4.jpg",
+          "originalName": "IMG_20261025_125335212_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T12:53:41"
+        },
+        {
+          "file": "2026/10/25/2026-10-25_131924_5360c293-01a6-5eea-b611-aef48356f68c.jpg",
+          "originalName": ".trashed-1796049516-IMG_20261025_131920413_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Family photographs among the outdoor market stalls.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-25T13:19:24"
+        },
+        {
+          "file": "2026/10/26/2026-10-26_190604_9fc2b1a3-c1e5-5c12-94c0-c4d6488cda91.jpg",
+          "originalName": "IMG_20261026_190602778.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his pram at a gathering.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-26T19:06:04"
+        },
+        {
+          "file": "2026/10/26/2026-10-26_190823_d0b45f13-c7d7-51f4-89c5-674da2262d79.jpg",
+          "originalName": ".trashed-1795602370-IMG_20261026_190822322.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his pram at a gathering.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-26T19:08:23"
+        },
+        {
+          "file": "2026/10/26/2026-10-26_190828_4b36c3a3-de82-5d5a-a847-70f33272b94d.jpg",
+          "originalName": ".trashed-1795602506-IMG_20261026_190828138.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his pram at a gathering.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-26T19:08:28"
+        },
+        {
+          "file": "2026/10/26/2026-10-26_190926_60d4ab5d-a379-58ba-bd72-df5b3d445ff1.jpg",
+          "originalName": ".trashed-1795602353-IMG_20261026_190925439.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in his pram at a gathering.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-26T19:09:26"
+        },
+        {
+          "file": "2026/10/27/2026-10-27_151150_c2f11f41-c1a0-5dd4-a7a6-91fd3890a29c.jpg",
+          "originalName": "IMG_20261027_151148868.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred on his play mat.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-27T15:11:50"
+        },
+        {
+          "file": "2026/10/27/2026-10-27_151153_0efa53e0-2a63-57ce-9a8c-4454071008c2.jpg",
+          "originalName": "IMG_20261027_151152980.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred on his play mat.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-27T15:11:53"
+        },
+        {
+          "file": "2026/10/27/2026-10-27_151205_49970d59-ca3b-54e1-830e-864227f67963.jpg",
+          "originalName": "IMG_20261027_151204053_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred on his play mat.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-27T15:12:05"
+        },
+        {
+          "file": "2026/10/27/2026-10-27_151210_1204779c-83ed-571d-b7d4-7a6a0aaf8ffd.jpg",
+          "originalName": "IMG_20261027_151209548.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred on his play mat.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-27T15:12:10"
+        },
+        {
+          "file": "2026/10/29/2026-10-29_095701_b018b531-fb9b-5040-8680-02a78a2edbac.jpg",
+          "originalName": "IMG_20261029_095700347_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "A grocery item from the photo collection.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-29T09:57:01"
+        },
+        {
+          "file": "2026/10/29/2026-10-29_121831_5ef6150b-7a66-5939-bf84-72eba41e6073.jpg",
+          "originalName": "IMG_20261029_121829583_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "A grocery item from the photo collection.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-29T12:18:31"
+        },
+        {
+          "file": "2026/10/29/2026-10-29_122238_f0e69471-d08d-5ab2-bbb1-78ca97eddb7a.jpg",
+          "originalName": "IMG_20261029_122237602_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "A grocery item from the photo collection.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-29T12:22:38"
+        },
+        {
+          "file": "2026/10/29/2026-10-29_142830_c583c39f-9316-5418-9637-4f1db05adbfc.jpg",
+          "originalName": "IMG_20261029_142829322_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-29T14:28:30"
+        },
+        {
+          "file": "2026/10/29/2026-10-29_142832_5bd04198-c6e3-5105-b71f-e9d0f67c683e.jpg",
+          "originalName": "IMG_20261029_142831029_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-29T14:28:32"
+        },
+        {
+          "file": "2026/10/29/2026-10-29_142835_72243ba7-4f6e-5f3a-a9e3-8e6993b5882a.jpg",
+          "originalName": "IMG_20261029_142834865_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-29T14:28:35"
+        },
+        {
+          "file": "2026/10/29/2026-10-29_142839_fcded20b-817d-5922-bfbd-8c483c3e527c.jpg",
+          "originalName": "IMG_20261029_142838523_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred sitting with a book on the blue cushion.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-29T14:28:39"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_090457_3a8d9c78-d347-563c-8191-2717ae6460bf.jpg",
+          "originalName": "IMG_20261030_090456140_PORTRAIT.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "The baby monitor.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T09:04:57"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_120008_426d3903-3007-5811-b884-c65b688bced7.jpg",
+          "originalName": "IMG_20261030_120007604.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Photographed document.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T12:00:08"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_120013_35ed31f2-e070-56e4-82e7-02eb9bf6ebc7.jpg",
+          "originalName": "IMG_20261030_120013017.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Photographed document.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T12:00:13"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_120016_548e4164-95c5-59cf-9fdd-45d881f37aa4.jpg",
+          "originalName": "IMG_20261030_120016076.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Photographed document.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T12:00:16"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_120022_3341862c-fdde-50d1-943c-867589af7485.jpg",
+          "originalName": "IMG_20261030_120022013.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Photographed document.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T12:00:22"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_124147_f616621e-76f0-5809-ba33-140aadb69ceb.jpg",
+          "originalName": "IMG_20261030_124145515_HDR.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "The kitchen sink and tap.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T12:41:47"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_131607_63b90e06-1582-5ef4-8571-e0894ceb4ef8.jpg",
+          "originalName": "IMG_20261030_131606019.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Handwritten notes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T13:16:07"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_131622_4626a6f2-a8ba-5825-b6ad-5df7fc80b0f9.jpg",
+          "originalName": "IMG_20261030_131621264.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Handwritten notes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T13:16:22"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_131701_bd908670-8d9d-56d0-afdf-7741d8ad83f9.jpg",
+          "originalName": "IMG_20261030_131700376.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Handwritten notes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T13:17:01"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_145025_d8826cef-f102-56b3-b458-113ba5365ed5.jpg",
+          "originalName": "IMG_20261030_145025036.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred wearing blue-and-white stripes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T14:50:25"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_145040_d9ba88a6-5405-5aa8-ad8a-c2a01d38ad42.jpg",
+          "originalName": "IMG_20261030_145039955.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred wearing blue-and-white stripes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T14:50:40"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_145130_1ae3383e-b768-572d-a438-657cf75709ea.jpg",
+          "originalName": "IMG_20261030_145129737.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred wearing blue-and-white stripes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T14:51:30"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_145131_8b95fa29-43ad-5ed5-bca3-9c44722f415c.jpg",
+          "originalName": "IMG_20261030_145131734.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred wearing blue-and-white stripes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T14:51:31"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_145138_08f71039-252f-5496-a093-fbe2e97dd478.jpg",
+          "originalName": "IMG_20261030_145138326.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred wearing blue-and-white stripes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T14:51:38"
+        },
+        {
+          "file": "2026/10/30/2026-10-30_145143_b33ab8fd-239c-59c3-80e7-96a61c29f144.jpg",
+          "originalName": "IMG_20261030_145143561.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred wearing blue-and-white stripes.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-10-30T14:51:43"
+        }
+      ]
+    },
+    {
+      "id": 29532793838215,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-11-14",
+      "time": "04:06",
+      "carer": "Daddy",
+      "title": "November 2026",
+      "narrative": "Family photographs and saved screenshots. Some dates come from filenames or screenshot timestamps and need confirmation. Individual dates are retained with each image.",
+      "photos": [
+        {
+          "file": "2026/11/14/2026-11-14_040632_05e6cf61-bc6f-5522-91c6-d6ff6a2c9d90.jpg",
+          "originalName": "mmexport1794629192453.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in blue-and-white stripes.",
+          "dateSource": "Export timestamp in filename; capture date unknown",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-11-14T04:06:32.453000"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_032736_ee156d4d-6d87-56ef-b734-1af1d6c4be04.jpg",
+          "originalName": "Screenshot_20261116-032736.WhatsApp.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-11-16T03:27:36"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_032753_524ecb1a-ea8e-5b82-8152-429e6f80d532.jpg",
+          "originalName": "Screenshot_20261116-032753.WhatsApp.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-11-16T03:27:53"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_033923_a3b9ef5a-bb80-5346-9b48-4cbd1a6d0be7.jpg",
+          "originalName": "Screenshot_20261116-033923.WhatsApp.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-11-16T03:39:23"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_034046_d7932a4e-65dc-5da3-9768-f4faf6bcfac3.jpg",
+          "originalName": "Screenshot_20261116-034046.WhatsApp.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-11-16T03:40:46"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_034131_3371529f-dd16-57b0-820c-726f285c1747.jpg",
+          "originalName": "Screenshot_20261116-034131.WhatsApp.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-11-16T03:41:31"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_034148_fd6d0a41-bd13-5915-a788-d6a710a7940d.jpg",
+          "originalName": "Screenshot_20261116-034148.WhatsApp.png",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Saved screenshot from the photo collection.",
+          "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
+          "captureDateNeedsConfirmation": true,
+          "dateTaken": "2026-11-16T03:41:48"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_100753_e8726602-35d9-5488-bdb5-5a4a09d644a9.jpg",
+          "originalName": "IMG_20261116_100751589.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "A family photograph from this day.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-11-16T10:07:53"
+        },
+        {
+          "file": "2026/11/16/2026-11-16_153821_676f47d9-dfac-580a-bafb-e232ef03c512.jpg",
+          "originalName": "IMG_20261116_153820598.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "A family photograph from this day.",
+          "dateSource": "EXIF DateTimeOriginal",
+          "captureDateNeedsConfirmation": false,
+          "dateTaken": "2026-11-16T15:38:21"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -244,10 +1552,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 2686720,
-    "journalBytes": 9302,
-    "previousJournalBytes": 9365,
-    "totalBytes": 2705387,
-    "updatedAt": "2026-11-19T09:52:13.825Z"
+    "mediaBytes": 32162077,
+    "journalBytes": 67300,
+    "previousJournalBytes": 0,
+    "totalBytes": 32229377,
+    "updatedAt": "2026-11-19T11:54:51.310173Z"
   }
 }
