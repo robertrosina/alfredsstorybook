@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "73768456-2d8f-4221-8e0d-93c92dc3bda1",
+  "revision": "d91e29ae-21b6-4f16-8c3d-58b13151503d",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T06:07:12.829Z",
+  "updatedAt": "2026-11-19T06:11:03.545Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -155,6 +155,25 @@
       "narrative": "",
       "title": "I love my bello.",
       "photos": []
+    },
+    {
+      "id": 1795068662489,
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-10-10",
+      "time": "17:10",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Lying on the Floor Sleeping (Date Unknown)",
+      "photos": [
+        {
+          "file": "2026/10/10/2026-10-10_1710_7c820b60-9668-43c4-84f7-9a02cc27b9d2.jpg",
+          "originalName": "2668f513-7961-4ec3-8e7b-51c5e7888075.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -176,10 +195,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 2198119,
-    "journalBytes": 5642,
+    "mediaBytes": 2412931,
+    "journalBytes": 6177,
     "previousJournalBytes": 5642,
-    "totalBytes": 2209403,
-    "updatedAt": "2026-11-19T06:07:12.831Z"
+    "totalBytes": 2424750,
+    "updatedAt": "2026-11-19T06:11:03.545Z"
   }
 }
