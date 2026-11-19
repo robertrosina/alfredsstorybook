@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "85dcd4a8-fff0-4798-9b44-6b5306fed8eb",
+  "revision": "387bfc6e-8546-45cd-b02f-e99b6b8e4a5c",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:25:25.631Z",
+  "updatedAt": "2026-11-19T22:26:17.151Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1634,7 +1634,7 @@
           "originalName": "20260520_064632.jpg",
           "type": "image/jpeg",
           "favourite": false,
-          "caption": ""
+          "caption": "You look just like me as a baby here!"
         }
       ]
     },
@@ -1737,9 +1737,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 33367958,
-    "journalBytes": 72595,
-    "previousJournalBytes": 72083,
-    "totalBytes": 33512636,
-    "updatedAt": "2026-11-19T22:25:25.631Z"
+    "journalBytes": 72632,
+    "previousJournalBytes": 72595,
+    "totalBytes": 33513185,
+    "updatedAt": "2026-11-19T22:26:17.152Z"
   }
 }
