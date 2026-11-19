@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "59378408-fb91-4e9d-80f9-cdaa34fd8531",
+  "revision": "bd401f81-319a-4b29-a975-9acf7edd3292",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T09:15:27.583Z",
+  "updatedAt": "2026-11-19T09:16:37.819Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -52,7 +52,7 @@
       "date": "2026-08-19",
       "time": "14:26",
       "carer": "Mummy",
-      "narrative": "",
+      "narrative": "I took these photos, in many of these photos you can see me but I am there behind the camera.",
       "title": "Artworks",
       "photos": [
         {
@@ -215,9 +215,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 2558833,
-    "journalBytes": 6827,
-    "previousJournalBytes": 6798,
-    "totalBytes": 2572458,
-    "updatedAt": "2026-11-19T09:15:27.585Z"
+    "journalBytes": 6920,
+    "previousJournalBytes": 6827,
+    "totalBytes": 2572580,
+    "updatedAt": "2026-11-19T09:16:37.821Z"
   }
 }
