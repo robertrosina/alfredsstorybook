@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "67658dcd-7f83-4553-a604-fbb9354e5872",
+  "revision": "10435d75-94df-49aa-a175-07100dce76d2",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T22:48:42.122Z",
+  "updatedAt": "2026-11-19T22:49:09.532Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1901,7 +1901,7 @@
       "time": "09:48",
       "carer": "Daddy",
       "narrative": "",
-      "title": "One month birthday Alfred!",
+      "title": "One month birthday Alfred my bello!",
       "photos": [
         {
           "file": "2026/06/08/2026-06-08_0948_61ff2895-be32-494b-b8ad-3fe080396d47.jpg",
@@ -1961,9 +1961,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 38354563,
-    "journalBytes": 79478,
-    "previousJournalBytes": 78005,
-    "totalBytes": 38512046,
-    "updatedAt": "2026-11-19T22:48:42.123Z"
+    "journalBytes": 79487,
+    "previousJournalBytes": 79478,
+    "totalBytes": 38513528,
+    "updatedAt": "2026-11-19T22:49:09.532Z"
   }
 }
