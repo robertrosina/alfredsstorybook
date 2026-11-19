@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "ba3b5ac7-707b-49d1-bfae-201db2c8e05f",
+  "revision": "aea3e5a9-ed96-4d84-aaf0-21c1d7e9388e",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-19T12:07:45.497Z",
+  "updatedAt": "2026-11-19T12:07:59.963Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1509,16 +1509,6 @@
           "dateTaken": "2026-11-16T03:41:48",
           "dateSource": "Screenshot creation time from EXIF; pictured event may be earlier",
           "captureDateNeedsConfirmation": true
-        },
-        {
-          "file": "2026/11/16/2026-11-16_153821_676f47d9-dfac-580a-bafb-e232ef03c512.jpg",
-          "originalName": "IMG_20261116_153820598.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "A family photograph from this day.",
-          "dateTaken": "2026-11-16T15:38:21",
-          "dateSource": "EXIF DateTimeOriginal",
-          "captureDateNeedsConfirmation": false
         }
       ]
     }
@@ -1542,10 +1532,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 31981282,
-    "journalBytes": 66847,
+    "mediaBytes": 31738845,
+    "journalBytes": 66415,
     "previousJournalBytes": 0,
-    "totalBytes": 32048129,
-    "updatedAt": "2026-11-19T12:07:45.518Z"
+    "totalBytes": 31805260,
+    "updatedAt": "2026-11-19T12:07:59.983Z"
   }
 }
