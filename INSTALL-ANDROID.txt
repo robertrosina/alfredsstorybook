@@ -14,6 +14,12 @@ UPDATE YOUR EXISTING SITE
 4. Your journal.json and media/ do not need replacing. They are not in this
    update ZIP, and your saved posts and photos remain in their repository.
 
+PHOTO VIEWER UPDATE
+On mobile, the photo controls use icons in a single row. Tap the four-corner
+Full screen icon to expand the image viewer; tap it again to leave. The
+whole image fits the available space until you choose Zoom in.
+After uploading the update, close and reopen the app while online.
+
 INSTALL ON YOUR ANDROID PHONE
 1. Open https://mybelloalfred.com/ in Google Chrome and refresh.
 2. Open the site's Menu and choose Install app. If Chrome's prompt does
