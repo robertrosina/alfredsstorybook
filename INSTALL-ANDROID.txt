@@ -14,6 +14,20 @@ UPDATE YOUR EXISTING SITE
 4. Your journal.json and media/ do not need replacing. They are not in this
    update ZIP, and your saved posts and photos remain in their repository.
 
+MOBILE CROP AND SHARING FIX
+Crop controls now fit within the phone width, with compact controls and
+a scrollable editor for smaller screens. Shared photo files with missing
+file-type labels are detected from their contents. Incomplete shared drafts
+automatically retry missing attachments and preserve your written message.
+The post date comes from EXIF capture metadata, then a dated filename if
+available. Sharing apps can strip metadata; check the suggested date.
+When no usable date arrives, the draft asks you to check it. Transfer time
+is never treated as the original capture date. Photos attach locally to the
+draft first; Save entry uploads them and publishes the post to GitHub.
+A text-only share is reported so you can attach the actual photo.
+After uploading, close and reopen the app online. For an existing failed
+share, choose Create / continue post in the shared-files banner to retry.
+
 PHOTO VIEWER UPDATE
 On mobile, the photo controls use icons in a single row. Tap the four-corner
 Full screen icon to expand the image viewer; tap it again to leave. The
