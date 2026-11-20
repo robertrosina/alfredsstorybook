@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "71eb8f54-fdac-4c6e-945b-818c667c8097",
+  "revision": "53eb3866-71dd-4742-b426-553074abc8c3",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-20T00:16:53.742Z",
+  "updatedAt": "2026-11-20T00:23:43.033Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -16,6 +16,13 @@
       "title": "Alfred's birth day",
       "section": "journal",
       "photos": [
+        {
+          "file": "2026/05/08/2026-05-08_1108_2ad8a164-d754-4f78-8699-67984d0c62a5.jpg",
+          "originalName": "1000177434.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
         {
           "file": "2026/05/08/2026-05-08_1108_203b8cd8-8b0f-474f-86ca-97c73b93ffed.jpg",
           "originalName": "IMG-20260509-WA0005.jpg",
@@ -2009,10 +2016,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 38788979,
-    "journalBytes": 80941,
-    "previousJournalBytes": 80695,
-    "totalBytes": 38950615,
-    "updatedAt": "2026-11-20T00:16:53.745Z"
+    "mediaBytes": 39001058,
+    "journalBytes": 81181,
+    "previousJournalBytes": 80941,
+    "totalBytes": 39163180,
+    "updatedAt": "2026-11-20T00:23:43.041Z"
   }
 }
