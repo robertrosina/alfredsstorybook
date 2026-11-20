@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "8389379a-f9d9-4c1d-a8b1-7f369d65db51",
+  "revision": "71eb8f54-fdac-4c6e-945b-818c667c8097",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-20T00:14:41.949Z",
+  "updatedAt": "2026-11-20T00:16:53.742Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1979,7 +1979,15 @@
       "carer": "Daddy",
       "narrative": "here he had just woke up",
       "title": "Photo from Robert Rosina",
-      "photos": []
+      "photos": [
+        {
+          "file": "2026/09/14/2026-09-14_1114_b3d3027d-f975-4ebf-8380-d7747e3d83e3.jpg",
+          "originalName": "1000177428.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2001,10 +2009,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 38676291,
-    "journalBytes": 80695,
-    "previousJournalBytes": 80398,
-    "totalBytes": 38837384,
-    "updatedAt": "2026-11-20T00:14:41.954Z"
+    "mediaBytes": 38788979,
+    "journalBytes": 80941,
+    "previousJournalBytes": 80695,
+    "totalBytes": 38950615,
+    "updatedAt": "2026-11-20T00:16:53.745Z"
   }
 }
