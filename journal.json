@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "53eb3866-71dd-4742-b426-553074abc8c3",
+  "revision": "4e49d9d9-bff8-4550-9c58-8cf0f3b5a126",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-20T00:23:43.033Z",
+  "updatedAt": "2026-11-20T00:24:49.132Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1995,6 +1995,54 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 1795134287808,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-06-29",
+      "time": "11:24",
+      "carer": "Daddy",
+      "narrative": "And a nice cuddle after!",
+      "title": "Shower time with daddy!",
+      "photos": [
+        {
+          "file": "2026/06/29/2026-06-29_1124_5159dce6-d278-4579-9761-365c161065fe.jpg",
+          "originalName": "1000177433.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/29/2026-06-29_1124_960849ae-516d-4d03-8fb1-c8a055afca8e.jpg",
+          "originalName": "1000177432.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/29/2026-06-29_1124_d66fddae-a0d9-4f24-a828-05a4bc0ba778.jpg",
+          "originalName": "1000177431.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/29/2026-06-29_1124_e374ef05-ae39-4cf2-b7a8-59893e0c3b3e.jpg",
+          "originalName": "1000177430.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        },
+        {
+          "file": "2026/06/29/2026-06-29_1124_d5134fb1-0ada-44cf-82ee-501d4344fb48.jpg",
+          "originalName": "1000177429.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": ""
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2016,10 +2064,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 39001058,
-    "journalBytes": 81181,
-    "previousJournalBytes": 80941,
-    "totalBytes": 39163180,
-    "updatedAt": "2026-11-20T00:23:43.041Z"
+    "mediaBytes": 39858842,
+    "journalBytes": 82683,
+    "previousJournalBytes": 81181,
+    "totalBytes": 40022706,
+    "updatedAt": "2026-11-20T00:24:49.136Z"
   }
 }
