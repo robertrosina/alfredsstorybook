@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "4e49d9d9-bff8-4550-9c58-8cf0f3b5a126",
+  "revision": "33a3a669-49bc-4134-ae93-f1f67904dab4",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-20T00:24:49.132Z",
+  "updatedAt": "2026-11-20T00:25:36.681Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2036,11 +2036,21 @@
           "caption": ""
         },
         {
-          "file": "2026/06/29/2026-06-29_1124_d5134fb1-0ada-44cf-82ee-501d4344fb48.jpg",
-          "originalName": "1000177429.jpg",
+          "file": "2026/06/29/2026-06-29_1124_9d6981de-3bbc-474b-b5bb-ee01164ede8e.jpg",
+          "originalName": "1000177429-cropped.jpg",
           "type": "image/jpeg",
           "favourite": false,
-          "caption": ""
+          "caption": "",
+          "cropOriginalFile": "2026/06/29/2026-06-29_1124_d5134fb1-0ada-44cf-82ee-501d4344fb48.jpg",
+          "cropOriginalDirectory": "media",
+          "cropOriginalName": "1000177429.jpg",
+          "crop": {
+            "x": 0,
+            "y": 193.6,
+            "width": 685,
+            "height": 958.4,
+            "rotation": 0
+          }
         }
       ]
     }
@@ -2064,10 +2074,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 39858842,
-    "journalBytes": 82683,
-    "previousJournalBytes": 81181,
-    "totalBytes": 40022706,
-    "updatedAt": "2026-11-20T00:24:49.136Z"
+    "mediaBytes": 39972155,
+    "journalBytes": 83042,
+    "previousJournalBytes": 82683,
+    "totalBytes": 40137880,
+    "updatedAt": "2026-11-20T00:25:36.684Z"
   }
 }
