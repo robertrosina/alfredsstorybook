@@ -14,6 +14,13 @@ UPDATE YOUR EXISTING SITE
 4. Your journal.json and media/ do not need replacing. They are not in this
    update ZIP, and your saved posts and photos remain in their repository.
 
+STARTUP LOADING
+The branded loading screen stays visible while the app reconnects, loads
+the journal and profile, and prepares photos in the first visible view.
+It waits for readiness rather than disappearing after a fixed delay.
+Loading failures show Try again and Open settings. Off-screen photos keep
+their normal lazy loading. Existing empty journals still open normally.
+
 MOBILE CROP AND SHARING FIX
 Crop controls now fit within the phone width, with compact controls and
 a scrollable editor for smaller screens. Shared photo files with missing
